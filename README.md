@@ -1,10 +1,10 @@
 # cybersec-writeups ✍🏼
 
+
 > A docs‑as‑code repository for offensive cybersecurity content—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures.
 
 ---
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ObsidianStrike/cybersec-writeups/docs-ci.yml?branch=main)](https://github.com/ObsidianStrike/cybersec-writeups/actions) [![Link Check](https://img.shields.io/badge/link-check-passing-brightgreen)](https://github.com/ObsidianStrike/cybersec-writeups/actions) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 📂 Repository Structure
 
