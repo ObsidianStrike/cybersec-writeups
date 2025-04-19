@@ -1,6 +1,6 @@
 # cybersec-writeups ✍🏼
 
-> A docs‑as‑code repository for offensive cybersecurity content—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures. 
+> A docs‑as‑code repository for offensive cybersecurity content—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures.
 
 ---
 
@@ -12,7 +12,7 @@
 │   ├── concept/               ← Concept guides (e.g. “What is Reconnaissance?”)
 │   ├── how-to/                ← Step‑by‑step recipes (e.g. Reconnaissance how‑to)
 │   ├── tutorial/              ← End‑to‑end walkthroughs (e.g. Full pentest lab build)
-│   └── reference/             ← API/attack technique cheat‑sheets (e.g. Injection payloads)
+│   └── reference/             ← Cheat‑sheets and API/attack technique reference (e.g. Injection payloads)
 ├── assets/                    ← Images, SVGs, example payload files
 │   ├── img/
 │   └── samples/
@@ -32,8 +32,8 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone git@github.com:your-org/diataxis-cybersec-docs.git
-   cd diataxis-cybersec-docs
+   git clone git@github.com:your-org/cybersec-writeups.git
+   cd cybersec-writeups
    ```
 
 2. **Install dependencies**  
@@ -84,7 +84,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for style guidelines and branch naming co
 
 ## 📄 License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ---
 
@@ -93,3 +93,4 @@ This project is licensed under the GNU General Public License v3.0.
 - Add “Was this page helpful?” at the bottom of each doc.  
 - Track page views via Plausible (or your analytics tool).  
 - File issues for typos, content gaps, or outdated references.
+
