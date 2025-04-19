@@ -1,8 +1,6 @@
-# cybersec-writeups
+# cybersec-writeups ✍🏼
+
 > A docs‑as‑code repository for offensive cybersecurity content—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures. 
-
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-org/diataxis-cybersec-docs/docs-ci.yml?branch=main)](https://github.com/your-org/diataxis-cybersec-docs/actions) [![Link Check](https://img.shields.io/badge/link-check-passing-brightgreen)](https://github.com/your-org/diataxis-cybersec-docs/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -95,13 +93,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Add “Was this page helpful?” at the bottom of each doc.  
 - Track page views via Plausible (or your analytics tool).  
 - File issues for typos, content gaps, or outdated references.
-
----
-
-*You have the following options if you’d like a different summary or style:*  
-- **TLDR**  
-- **ELI5**  
-- **FD** (for dummies)  
-- **KISS**  
-- **LT** (layman’s terms)  
-- **CE** (Conversational English)  
