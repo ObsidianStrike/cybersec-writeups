@@ -21,7 +21,7 @@
 ├── .github/
 │   └── workflows/docs-ci.yml  ← CI: lint, link‑check, build, deploy previews
 ├── tests/                     ← Link‑checker & snippet validation configs
-├── site-config.js             ← Docusaurus configuration
+├── docusaurus.config.js       ← Docusaurus configuration
 ├── sidebar.js                 ← Docusaurus sidebar structure
 ├── openapi.yaml               ← (Optional) API specs for reference generation
 ├── package.json               ← Build scripts & dependencies
