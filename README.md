@@ -4,6 +4,8 @@
 
 ---
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/ObsidianStrike/cybersec-writeups/docs-ci.yml?branch=main)](https://github.com/ObsidianStrike/cybersec-writeups/actions) [![Link Check](https://img.shields.io/badge/link-check-passing-brightgreen)](https://github.com/ObsidianStrike/cybersec-writeups/actions) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## 📂 Repository Structure
 
 ```
@@ -32,7 +34,7 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone git@github.com:your-org/cybersec-writeups.git
+   git clone git@github.com:ObsidianStrike/cybersec-writeups.git
    cd cybersec-writeups
    ```
 
@@ -92,5 +94,7 @@ This project is licensed under the [GNU General Public License v3.0](https:/
 
 - Add “Was this page helpful?” at the bottom of each doc.  
 - Track page views via Plausible (or your analytics tool).  
-- File issues for typos, content gaps, or outdated references.
+- File issues for typos, content gaps, or outdated references: [New Issue](https://github.com/ObsidianStrike/cybersec-writeups/issues/new).
+
+*Thank you for making our docs better!*
 
