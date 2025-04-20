@@ -1,0 +1,19 @@
+{
+  "name": "cybersec-writeups",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "lint:md": "markdownlint docs/**/*.mdx",
+    "link-check": "markdown-link-check -c tests/link-check.config.json docs/**/*.mdx"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.31.0",
+    "markdown-link-check": "^3.10.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tutorial/intro",
+  "title": "Full Pentest Lab Tutorial",
+  "description": "In this Tutorial quadrant, we’ll build a complete vulnerable web‑app lab from scratch and exploit it end‑to‑end.",
+  "source": "@site/docs/tutorial/intro.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/intro",
+  "permalink": "/docs/tutorial/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Full Pentest Lab Tutorial",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/reference/intro"
+  }
+}

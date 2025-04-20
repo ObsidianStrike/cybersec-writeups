@@ -1,0 +1,24 @@
+{
+  "id": "concept/intro",
+  "title": "What Is Web App Pentesting?",
+  "description": "Welcome to the Concept quadrant! Here you’ll learn the “what” and “why” of web app penetration testing.",
+  "source": "@site/docs/concept/intro.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/intro",
+  "permalink": "/docs/concept/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concept/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "What Is Web App Pentesting?",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/how-to/intro"
+  }
+}

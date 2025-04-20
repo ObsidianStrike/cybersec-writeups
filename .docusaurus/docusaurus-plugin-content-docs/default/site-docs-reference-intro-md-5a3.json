@@ -1,0 +1,28 @@
+{
+  "id": "reference/intro",
+  "title": "Pentest Cheat‑Sheets & Payloads",
+  "description": "The Reference quadrant collects payloads, commands, and quick‑lookup tables for your pentests.",
+  "source": "@site/docs/reference/intro.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/intro",
+  "permalink": "/docs/reference/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Pentest Cheat‑Sheets & Payloads",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/how-to/intro"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/tutorial/intro"
+  }
+}

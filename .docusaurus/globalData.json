@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "concept/intro",
+          "docs": [
+            {
+              "id": "concept/intro",
+              "path": "/docs/concept/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/intro",
+              "path": "/docs/how-to/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/intro",
+              "path": "/docs/reference/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/intro",
+              "path": "/docs/tutorial/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/concept/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
