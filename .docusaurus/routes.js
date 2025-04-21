@@ -9,49 +9,49 @@ export default [
   },
   {
     path: '/cybersec-writeups/docs',
-    component: ComponentCreator('/cybersec-writeups/docs', '149'),
+    component: ComponentCreator('/cybersec-writeups/docs', 'b15'),
     routes: [
       {
         path: '/cybersec-writeups/docs',
-        component: ComponentCreator('/cybersec-writeups/docs', '7b4'),
+        component: ComponentCreator('/cybersec-writeups/docs', '03a'),
         routes: [
           {
             path: '/cybersec-writeups/docs',
-            component: ComponentCreator('/cybersec-writeups/docs', '14d'),
+            component: ComponentCreator('/cybersec-writeups/docs', 'ada'),
             routes: [
               {
-                path: '/cybersec-writeups/docs/Concepts/intro',
-                component: ComponentCreator('/cybersec-writeups/docs/Concepts/intro', 'f4b'),
+                path: '/cybersec-writeups/docs/concept/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/concept/intro', 'f81'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cybersec-writeups/docs/Concepts/what-is-reconnaissance',
-                component: ComponentCreator('/cybersec-writeups/docs/Concepts/what-is-reconnaissance', '24d'),
+                path: '/cybersec-writeups/docs/concept/what-is-reconnaissance',
+                component: ComponentCreator('/cybersec-writeups/docs/concept/what-is-reconnaissance', '587'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cybersec-writeups/docs/How-To\'s/intro',
-                component: ComponentCreator('/cybersec-writeups/docs/How-To\'s/intro', 'a55'),
+                path: '/cybersec-writeups/docs/how-to/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/how-to/intro', '8fd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cybersec-writeups/docs/References/intro',
-                component: ComponentCreator('/cybersec-writeups/docs/References/intro', 'd98'),
+                path: '/cybersec-writeups/docs/reference/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/reference/intro', '2c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cybersec-writeups/docs/toc',
-                component: ComponentCreator('/cybersec-writeups/docs/toc', '493'),
+                component: ComponentCreator('/cybersec-writeups/docs/toc', 'd44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cybersec-writeups/docs/Tutorials/intro',
-                component: ComponentCreator('/cybersec-writeups/docs/Tutorials/intro', 'b12'),
+                path: '/cybersec-writeups/docs/tutorial/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/tutorial/intro', '9d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

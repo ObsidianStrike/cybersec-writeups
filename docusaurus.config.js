@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CyberSec Writeups',
-  tagline: 'ObsidianStrike Cybersecurity Write‑Ups',
+  tagline: 'ObsidianStrike Cybersecurity Writeups',
   favicon: 'img/favicon.ico',
 
   // Your production URL
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Concepts',
-                to: '/docs/concepts/intro',
+                to: '/docs/concept/intro',
               },
               {
                 label: "How-To's",
@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} ObsidianStrike Infosec.`,
+        copyright: `© ${new Date().getFullYear()} ObsidianStrike Infosec`,
       },
       prism: {
         theme: prismThemes.github,

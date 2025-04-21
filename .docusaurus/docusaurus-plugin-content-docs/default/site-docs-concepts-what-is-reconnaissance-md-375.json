@@ -1,0 +1,28 @@
+{
+  "id": "concepts/what-is-reconnaissance",
+  "title": "What Is Reconnaissance?",
+  "description": "Your write‑up here…",
+  "source": "@site/docs/concepts/what‑is‑reconnaissance.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/what-is-reconnaissance",
+  "permalink": "/cybersec-writeups/docs/concepts/what-is-reconnaissance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concepts/what‑is‑reconnaissance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "what-is-reconnaissance",
+    "title": "What Is Reconnaissance?",
+    "sidebar_label": "Reconnaissance"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/concepts/intro"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/how-to/intro"
+  }
+}

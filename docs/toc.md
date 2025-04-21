@@ -1,7 +1,7 @@
 ---
 id: toc
 title: Table of Contents
-sidebar_label: Table of Concepts
+sidebar_label: Table of Contents
 sidebar_position: 1
 ---
 

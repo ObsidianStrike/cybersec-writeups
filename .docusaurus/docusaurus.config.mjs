@@ -5,7 +5,7 @@
  */
 export default {
   "title": "CyberSec Writeups",
-  "tagline": "ObsidianStrike Cybersecurity Write‑Ups",
+  "tagline": "ObsidianStrike Cybersecurity Writeups",
   "favicon": "img/favicon.ico",
   "url": "https://ObsidianStrike.github.io",
   "baseUrl": "/cybersec-writeups/",
@@ -69,15 +69,15 @@ export default {
           "items": [
             {
               "label": "Concepts",
-              "to": "/docs/Concepts/intro"
+              "to": "/docs/concept/intro"
             },
             {
               "label": "How-To's",
-              "to": "/docs/How-To's/intro"
+              "to": "/docs/how-to/intro"
             },
             {
               "label": "References",
-              "to": "/docs/References/intro"
+              "to": "/docs/reference/intro"
             }
           ]
         },
@@ -91,7 +91,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2025 ObsidianStrike Infosec."
+      "copyright": "© 2025 ObsidianStrike Infosec"
     },
     "prism": {
       "theme": {

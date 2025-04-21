@@ -5,7 +5,7 @@
   "source": "@site/docs/concept/intro.md",
   "sourceDirName": "concept",
   "slug": "/concept/intro",
-  "permalink": "/cybersec-writeups/docs/Concepts/intro",
+  "permalink": "/cybersec-writeups/docs/concept/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/intro.md",
@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Home",
-    "permalink": "/cybersec-writeups/docs/intro"
+    "title": "Table of Concepts",
+    "permalink": "/cybersec-writeups/docs/toc"
   },
   "next": {
     "title": "Reconnaissance",

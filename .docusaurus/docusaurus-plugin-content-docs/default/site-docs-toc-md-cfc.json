@@ -1,0 +1,26 @@
+{
+  "id": "toc",
+  "title": "Table of Contents",
+  "description": "Pick a section:",
+  "source": "@site/docs/toc.md",
+  "sourceDirName": ".",
+  "slug": "/toc",
+  "permalink": "/cybersec-writeups/docs/toc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/toc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "toc",
+    "title": "Table of Contents",
+    "sidebar_label": "Table of Concepts",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/concept/intro"
+  }
+}

@@ -12,9 +12,9 @@ export default function NotFound() {
         </p>
         <p>
           <Link to="/docs/concept/intro">Concepts</Link> |{' '}
-          <Link to="/docs/how-to/intro">How‑To</Link> |{' '}
-          <Link to="/docs/tutorial/intro">Tutorial</Link> |{' '}
-          <Link to="/docs/reference/intro">Reference</Link>
+          <Link to="/docs/how-to/intro">How‑To's</Link> |{' '}
+          <Link to="/docs/tutorial/intro">Tutorials</Link> |{' '}
+          <Link to="/docs/reference/intro">References</Link>
         </p>
       </main>
     </Layout>

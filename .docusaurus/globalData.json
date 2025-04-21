@@ -11,23 +11,23 @@
           "mainDocId": "toc",
           "docs": [
             {
-              "id": "Concepts/intro",
-              "path": "/cybersec-writeups/docs/Concepts/intro",
+              "id": "concept/intro",
+              "path": "/cybersec-writeups/docs/concept/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Concepts/what-is-reconnaissance",
-              "path": "/cybersec-writeups/docs/Concepts/what-is-reconnaissance",
+              "id": "concept/what-is-reconnaissance",
+              "path": "/cybersec-writeups/docs/concept/what-is-reconnaissance",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "How-To's/intro",
-              "path": "/cybersec-writeups/docs/How-To's/intro",
+              "id": "how-to/intro",
+              "path": "/cybersec-writeups/docs/how-to/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "References/intro",
-              "path": "/cybersec-writeups/docs/References/intro",
+              "id": "reference/intro",
+              "path": "/cybersec-writeups/docs/reference/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,8 +36,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/intro",
-              "path": "/cybersec-writeups/docs/Tutorials/intro",
+              "id": "tutorial/intro",
+              "path": "/cybersec-writeups/docs/tutorial/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
