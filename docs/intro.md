@@ -2,7 +2,7 @@
 id: intro
 title: Introduction
 sidebar_label: Home
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 Welcome to CyberSec Write‑Ups!  
