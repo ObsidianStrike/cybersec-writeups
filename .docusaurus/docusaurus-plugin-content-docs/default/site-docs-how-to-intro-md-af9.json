@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/concept/intro"
+    "title": "Reconnaissance",
+    "permalink": "/cybersec-writeups/docs/concept/what-is-reconnaissance"
   },
   "next": {
-    "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/reference/intro"
+    "title": "Home",
+    "permalink": "/cybersec-writeups/docs/intro"
   }
 }

@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept/what-is-reconnaissance",
+              "path": "/cybersec-writeups/docs/concept/what-is-reconnaissance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "how-to/intro",
               "path": "/cybersec-writeups/docs/how-to/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/cybersec-writeups/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {

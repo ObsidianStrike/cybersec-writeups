@@ -1,0 +1,28 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to CyberSec Write‑Ups!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/cybersec-writeups/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction",
+    "sidebar_label": "Home"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/how-to/intro"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/reference/intro"
+  }
+}

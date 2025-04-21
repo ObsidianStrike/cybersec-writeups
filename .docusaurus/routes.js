@@ -3,21 +3,21 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/cybersec-writeups/markdown-page',
-    component: ComponentCreator('/cybersec-writeups/markdown-page', '09b'),
+    path: '/cybersec-writeups/404',
+    component: ComponentCreator('/cybersec-writeups/404', '322'),
     exact: true
   },
   {
     path: '/cybersec-writeups/docs',
-    component: ComponentCreator('/cybersec-writeups/docs', 'b9f'),
+    component: ComponentCreator('/cybersec-writeups/docs', '5fb'),
     routes: [
       {
         path: '/cybersec-writeups/docs',
-        component: ComponentCreator('/cybersec-writeups/docs', 'b16'),
+        component: ComponentCreator('/cybersec-writeups/docs', 'd7c'),
         routes: [
           {
             path: '/cybersec-writeups/docs',
-            component: ComponentCreator('/cybersec-writeups/docs', '1fe'),
+            component: ComponentCreator('/cybersec-writeups/docs', 'd33'),
             routes: [
               {
                 path: '/cybersec-writeups/docs/concept/intro',
@@ -26,8 +26,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/cybersec-writeups/docs/concept/what-is-reconnaissance',
+                component: ComponentCreator('/cybersec-writeups/docs/concept/what-is-reconnaissance', '587'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/cybersec-writeups/docs/how-to/intro',
                 component: ComponentCreator('/cybersec-writeups/docs/how-to/intro', '8fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/cybersec-writeups/docs/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/intro', 'e50'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

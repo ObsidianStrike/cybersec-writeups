@@ -1,6 +1,6 @@
 {
   "id": "tutorial/intro",
-  "title": "Full Pentest Lab Tutorial",
+  "title": "Full Pentest Lab Tutorial Stuff",
   "description": "In this Tutorial quadrant, we’ll build a complete vulnerable web‑app lab from scratch and exploit it end‑to‑end.",
   "source": "@site/docs/tutorial/intro.md",
   "sourceDirName": "tutorial",
