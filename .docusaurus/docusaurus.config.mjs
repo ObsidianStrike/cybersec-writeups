@@ -69,15 +69,15 @@ export default {
           "items": [
             {
               "label": "Concepts",
-              "to": "/docs/concept/intro"
+              "to": "/docs/Concepts/intro"
             },
             {
               "label": "How-To's",
-              "to": "/docs/how-to/intro"
+              "to": "/docs/How-To's/intro"
             },
             {
               "label": "References",
-              "to": "/docs/reference/intro"
+              "to": "/docs/References/intro"
             }
           ]
         },
@@ -91,7 +91,7 @@ export default {
           ]
         }
       ],
-      "copyright": "© 2025 ObsidianStrike. Built with Docusaurus."
+      "copyright": "© 2025 ObsidianStrike Infosec."
     },
     "prism": {
       "theme": {

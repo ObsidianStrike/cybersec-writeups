@@ -78,15 +78,15 @@ const config = {
             items: [
               {
                 label: 'Concepts',
-                to: '/docs/Concepts/intro',
+                to: '/docs/concepts/intro',
               },
               {
                 label: "How-To's",
-                to: "/docs/How-To's/intro",
+                to: '/docs/how-to/intro',
               },
               {
                 label: 'References',
-                to: '/docs/References/intro',
+                to: '/docs/reference/intro',
               },
             ],
           },
