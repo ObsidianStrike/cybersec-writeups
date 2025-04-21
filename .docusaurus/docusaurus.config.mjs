@@ -4,13 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "CyberSec Writeups",
+  "tagline": "Offensive Cybersecurity Write‑Ups",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://ObsidianStrike.github.io",
+  "baseUrl": "/cybersec-writeups/",
+  "organizationName": "ObsidianStrike",
+  "projectName": "cybersec-writeups",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,25 +27,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "path": "docs",
+          "sidebarPath": "/home/user/cybersec-writeups/sidebars.js",
+          "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
-        },
+        "blog": false,
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "/home/user/cybersec-writeups/src/css/custom.css"
         }
       }
     ]
@@ -52,9 +41,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "CyberSec Writeups",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "ObsidianStrike Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -62,15 +51,10 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Diátaxis Guide"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/ObsidianStrike/cybersec-writeups",
           "label": "GitHub",
           "position": "right"
         }
@@ -84,43 +68,22 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Concepts",
+              "to": "/docs/concept/what-is-reconnaissance"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Repository",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/ObsidianStrike/cybersec-writeups"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "© 2025 ObsidianStrike. Built with Docusaurus."
     },
     "prism": {
       "theme": {

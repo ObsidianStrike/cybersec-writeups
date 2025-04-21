@@ -3,78 +3,43 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/cybersec-writeups/markdown-page',
+    component: ComponentCreator('/cybersec-writeups/markdown-page', '09b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'ce3'),
+    path: '/cybersec-writeups/docs',
+    component: ComponentCreator('/cybersec-writeups/docs', 'b9f'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '16d'),
+        path: '/cybersec-writeups/docs',
+        component: ComponentCreator('/cybersec-writeups/docs', 'b16'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'c1e'),
+            path: '/cybersec-writeups/docs',
+            component: ComponentCreator('/cybersec-writeups/docs', '1fe'),
             routes: [
               {
-                path: '/docs/concept/intro',
-                component: ComponentCreator('/docs/concept/intro', '7ea'),
+                path: '/cybersec-writeups/docs/concept/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/concept/intro', 'f81'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/how-to/intro',
-                component: ComponentCreator('/docs/how-to/intro', '1d5'),
+                path: '/cybersec-writeups/docs/how-to/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/how-to/intro', '8fd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/reference/intro',
-                component: ComponentCreator('/docs/reference/intro', '7cd'),
+                path: '/cybersec-writeups/docs/reference/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/reference/intro', '2c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial/intro',
-                component: ComponentCreator('/docs/tutorial/intro', '094'),
+                path: '/cybersec-writeups/docs/tutorial/intro',
+                component: ComponentCreator('/cybersec-writeups/docs/tutorial/intro', '9d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -85,8 +50,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/cybersec-writeups/',
+    component: ComponentCreator('/cybersec-writeups/', 'e0a'),
     exact: true
   },
   {

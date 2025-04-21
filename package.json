@@ -5,15 +5,20 @@
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "serve": "docusaurus serve",
     "lint:md": "markdownlint docs/**/*.mdx",
-    "link-check": "markdown-link-check -c tests/link-check.config.json docs/**/*.mdx"
+    "link-check": "markdown-link-check -c tests/link-check.config.json docs/**/*.mdx",
+    "predeploy": "npm run build",
+    "deploy": "GIT_USER=ObsidianStrike USE_SSH=true docusaurus deploy"
   },
   "dependencies": {
     "@docusaurus/core": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0"
+    "@docusaurus/preset-classic": "^3.7.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "markdownlint": "^0.31.0",
-    "markdown-link-check": "^3.10.0"
+    "markdown-link-check": "^3.10.0",
+    "markdownlint": "^0.31.0"
   }
 }
