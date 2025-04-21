@@ -5,7 +5,7 @@
  */
 export default {
   "title": "CyberSec Writeups",
-  "tagline": "Offensive Cybersecurity Write‑Ups",
+  "tagline": "ObsidianStrike Cybersecurity Write‑Ups",
   "favicon": "img/favicon.ico",
   "url": "https://ObsidianStrike.github.io",
   "baseUrl": "/cybersec-writeups/",
