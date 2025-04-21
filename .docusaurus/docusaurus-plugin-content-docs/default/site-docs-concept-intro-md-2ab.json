@@ -17,6 +17,10 @@
     "sidebar_label": "Introduction"
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/cybersec-writeups/docs/intro"
+  },
   "next": {
     "title": "Reconnaissance",
     "permalink": "/cybersec-writeups/docs/concept/what-is-reconnaissance"

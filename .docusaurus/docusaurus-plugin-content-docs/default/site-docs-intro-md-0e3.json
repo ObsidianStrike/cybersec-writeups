@@ -11,18 +11,16 @@
   "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 0,
   "frontMatter": {
     "id": "intro",
     "title": "Introduction",
-    "sidebar_label": "Home"
+    "sidebar_label": "Home",
+    "sidebar_position": 0
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/how-to/intro"
-  },
   "next": {
     "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/reference/intro"
+    "permalink": "/cybersec-writeups/docs/concept/intro"
   }
 }

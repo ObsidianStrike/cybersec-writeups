@@ -69,7 +69,15 @@ export default {
           "items": [
             {
               "label": "Concepts",
-              "to": "/docs/concept/what-is-reconnaissance"
+              "to": "/docs/concept/"
+            },
+            {
+              "label": "How-To's",
+              "to": "/docs/how-to/"
+            },
+            {
+              "label": "References",
+              "to": "/docs/reference/"
             }
           ]
         },
