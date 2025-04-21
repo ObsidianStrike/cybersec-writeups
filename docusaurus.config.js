@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CyberSec Writeups',
-  tagline: 'Offensive Cybersecurity Write‑Ups',
+  tagline: 'ObsidianStrike Cybersecurity Write‑Ups',
   favicon: 'img/favicon.ico',
 
   // Your production URL
