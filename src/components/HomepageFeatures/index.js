@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Red Team Ready',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Each write-up is designed to help you simulate real-world attacks,
+        from initial reconnaissance to post-exploitation. No filler—just ops.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'TTP-Focused Content',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Every guide maps to practical tactics, techniques, and procedures (TTPs),
+        aligned with frameworks like MITRE ATT&CK and real adversary emulation.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Built by Practitioners',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        These writeups aren't theory—they're forged in hands-on engagements
+        and threat simulations. Learn from real operators, not textbook clones.
       </>
     ),
   },

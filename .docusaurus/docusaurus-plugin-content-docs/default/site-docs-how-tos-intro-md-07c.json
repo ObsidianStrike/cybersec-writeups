@@ -1,0 +1,28 @@
+{
+  "id": "How-To's/intro",
+  "title": "Reconnaissance How‑To",
+  "description": "This How‑To quadrant will walk you step‑by‑step through tasks like subdomain enumeration and directory brute‑forcing.",
+  "source": "@site/docs/How-To's/intro.md",
+  "sourceDirName": "How-To's",
+  "slug": "/How-To's/intro",
+  "permalink": "/cybersec-writeups/docs/How-To's/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/How-To's/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Reconnaissance How‑To",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reconnaissance",
+    "permalink": "/cybersec-writeups/docs/Concepts/what-is-reconnaissance"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/References/intro"
+  }
+}

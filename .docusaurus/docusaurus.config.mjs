@@ -41,7 +41,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "CyberSec Writeups",
+      "title": "Home",
       "logo": {
         "alt": "ObsidianStrike Logo",
         "src": "img/logo.svg"
@@ -51,7 +51,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Diátaxis Guide"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/ObsidianStrike/cybersec-writeups",
@@ -69,15 +69,15 @@ export default {
           "items": [
             {
               "label": "Concepts",
-              "to": "/docs/concept/"
+              "to": "/docs/concept/intro"
             },
             {
               "label": "How-To's",
-              "to": "/docs/how-to/"
+              "to": "/docs/how-to/intro"
             },
             {
               "label": "References",
-              "to": "/docs/reference/"
+              "to": "/docs/reference/intro"
             }
           ]
         },

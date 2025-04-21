@@ -51,7 +51,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'CyberSec Writeups',
+        title: 'Home',
         logo: {
           alt: 'ObsidianStrike Logo',
           src: 'img/logo.svg',
@@ -61,7 +61,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Diátaxis Guide',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/ObsidianStrike/cybersec-writeups',
@@ -78,15 +78,15 @@ const config = {
             items: [
               {
                 label: 'Concepts',
-                to: '/docs/concept/intro',
+                to: '/docs/Concepts/intro',
               },
               {
                 label: "How-To's",
-                to: '/docs/how-to/intro',
+                to: "/docs/How-To's/intro",
               },
               {
                 label: 'References',
-                to: '/docs/reference/intro',
+                to: '/docs/References/intro',
               },
             ],
           },
@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} ObsidianStrike. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} ObsidianStrike Infosec.`,
       },
       prism: {
         theme: prismThemes.github,

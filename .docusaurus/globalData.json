@@ -8,36 +8,36 @@
           "label": "Next",
           "isLast": true,
           "path": "/cybersec-writeups/docs",
-          "mainDocId": "intro",
+          "mainDocId": "toc",
           "docs": [
             {
-              "id": "concept/intro",
-              "path": "/cybersec-writeups/docs/concept/intro",
+              "id": "Concepts/intro",
+              "path": "/cybersec-writeups/docs/Concepts/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "concept/what-is-reconnaissance",
-              "path": "/cybersec-writeups/docs/concept/what-is-reconnaissance",
+              "id": "Concepts/what-is-reconnaissance",
+              "path": "/cybersec-writeups/docs/Concepts/what-is-reconnaissance",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/intro",
-              "path": "/cybersec-writeups/docs/how-to/intro",
+              "id": "How-To's/intro",
+              "path": "/cybersec-writeups/docs/How-To's/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/cybersec-writeups/docs/intro",
+              "id": "References/intro",
+              "path": "/cybersec-writeups/docs/References/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "reference/intro",
-              "path": "/cybersec-writeups/docs/reference/intro",
+              "id": "toc",
+              "path": "/cybersec-writeups/docs/toc",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial/intro",
-              "path": "/cybersec-writeups/docs/tutorial/intro",
+              "id": "Tutorials/intro",
+              "path": "/cybersec-writeups/docs/Tutorials/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -45,8 +45,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/cybersec-writeups/docs/intro",
-                "label": "Home"
+                "path": "/cybersec-writeups/docs/toc",
+                "label": "Table of Concepts"
               }
             }
           }

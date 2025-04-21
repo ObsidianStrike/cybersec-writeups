@@ -1,0 +1,28 @@
+{
+  "id": "References/intro",
+  "title": "Pentest Cheat‑Sheets & Payloads",
+  "description": "The Reference quadrant collects payloads, commands, and quick‑lookup tables for your pentests.",
+  "source": "@site/docs/References/intro.md",
+  "sourceDirName": "References",
+  "slug": "/References/intro",
+  "permalink": "/cybersec-writeups/docs/References/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/References/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Pentest Cheat‑Sheets & Payloads",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/How-To's/intro"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/Tutorials/intro"
+  }
+}
