@@ -46,7 +46,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/cybersec-writeups/docs/toc",
-                "label": "Table of Concepts"
+                "label": "Table of Contents"
               }
             }
           }
