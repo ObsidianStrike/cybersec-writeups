@@ -19,8 +19,15 @@ jobs:
             tar -xzf vale.tar.gz
             sudo mv vale /usr/local/bin/
 
+      - name: Clone Vale Styles
+        run: |
+          mkdir -p /tmp/vale/styles
+          git clone --depth=1 https://github.com/errata-ai/proselint /tmp/vale/styles/proselint
+          git clone --depth=1 https://github.com/errata-ai/write-good /tmp/vale/styles/write-good
 
       - name: Run Vale
+        env:
+          VALE_STYLES_PATH: /tmp/vale/styles
         run: vale .
 
   docusaurus-build:
