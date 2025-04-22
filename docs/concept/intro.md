@@ -5,6 +5,8 @@ sidebar_label: Introduction
 sidebar_position: 1
 ---
 
+---
+
 ### **What is Offensive Cybersecurity?**
 
 Offensive cybersecurity refers to the proactive practice of simulating adversarial actions to assess, validate, and strengthen the security posture of systems, networks, and organizations. Rather than waiting for attackers to exploit vulnerabilities, offensive security teams — often called **Red Teams** or **penetration testers** — take on the role of threat actors to find weaknesses before malicious actors do.

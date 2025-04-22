@@ -5,6 +5,8 @@ sidebar_label: Tactics, Techniques, and Procedures (TTPs)
 sidebar_position: 3
 ---
 
+---
+
 ### What Are TTPs?
 
 **Tactics, Techniques, and Procedures (TTPs)** represent the behavioral DNA of threat actors. Rather than focusing solely on tools or payloads, TTPs describe *how* adversaries operate — from strategic objectives down to specific commands or scripts used during intrusions.

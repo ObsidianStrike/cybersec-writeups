@@ -5,7 +5,7 @@ sidebar_label: Table of Contents
 sidebar_position: 1
 ---
 
-Pick a section:
+---
 
 - [Concepts](/docs/concept/intro)  
 - [How‑To's](/docs/how-to/intro)  

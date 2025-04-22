@@ -5,6 +5,8 @@ sidebar_label: The Cyber Killchain
 sidebar_position: 2
 ---
 
+---
+
 ### What Is the Cyber Kill Chain?
 
 The **Cyber Kill Chain** is a conceptual framework developed by Lockheed Martin to describe the typical stages of a cyberattack from the perspective of an external threat actor. By breaking attacks into distinct phases, it allows defenders — and Red Teams — to understand, map, and disrupt adversary activity at each step.
