@@ -20,7 +20,9 @@ jobs:
           sudo mv vale /usr/local/bin/
 
       - name: Sync Vale Styles
-        run: vale sync
+        run: |
+          mkdir -p styles
+          vale sync
 
       - name: Run Vale
         run: vale .
