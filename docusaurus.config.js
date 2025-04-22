@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ObsidianStrike Pentesting Writeups',
   //tagline: 'ObsidianStrike Cybersecurity Writeups',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Shield 800_800.png',
 
   // Your production URL
   url: 'https://docs.obsidianstrike.com',
@@ -101,7 +101,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} ObsidianStrike Infosec`,
+        copyright: `Obsidian Strike Infosec © Copyright 2025. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
