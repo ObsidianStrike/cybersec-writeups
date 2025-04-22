@@ -3,7 +3,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ObsidianStrike Pentesting Writeups',
+  title: 'Offensive Security Writeups',
   //tagline: 'ObsidianStrike Cybersecurity Writeups',
   favicon: 'img/Shield 800_800.png',
 
