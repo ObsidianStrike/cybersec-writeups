@@ -1,7 +1,8 @@
 ---
 id: intro
-title: Understanding Offensive Cybersecurity
-sidebar_label: Understanding Offensive Cybersecurity
+title: Introduction to Offensive Cybersecurity
+sidebar_label: Introduction
+sidebar_position: 1
 ---
 
 ### **What is Offensive Cybersecurity?**

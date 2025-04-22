@@ -1,0 +1,30 @@
+{
+  "id": "concept/cyber-killchain",
+  "title": "The Cyber Killchain",
+  "description": "What Is the Cyber Kill Chain?",
+  "source": "@site/docs/concept/cyber-killchain.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/cyber-killchain",
+  "permalink": "/docs/concept/cyber-killchain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/cyber-killchain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "cyber-killchain",
+    "title": "The Cyber Killchain",
+    "sidebar_label": "The Cyber Killchain",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/concept/intro"
+  },
+  "next": {
+    "title": "Tactics, Techniques, and Procedures (TTPs)",
+    "permalink": "/docs/concept/ttps-explained"
+  }
+}

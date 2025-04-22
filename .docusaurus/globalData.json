@@ -11,13 +11,18 @@
           "mainDocId": "toc",
           "docs": [
             {
+              "id": "concept/cyber-killchain",
+              "path": "/docs/concept/cyber-killchain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/intro",
               "path": "/docs/concept/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "concept/what-is-reconnaissance",
-              "path": "/docs/concept/what-is-reconnaissance",
+              "id": "concept/ttps-explained",
+              "path": "/docs/concept/ttps-explained",
               "sidebar": "tutorialSidebar"
             },
             {

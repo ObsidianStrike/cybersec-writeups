@@ -1,7 +1,7 @@
 {
   "id": "concept/intro",
-  "title": "What Is Web App Pentesting?",
-  "description": "Welcome to the Concept quadrant! Here you’ll learn the “what” and “why” of web app penetration testing.",
+  "title": "Introduction to Offensive Cybersecurity",
+  "description": "What is Offensive Cybersecurity?",
   "source": "@site/docs/concept/intro.md",
   "sourceDirName": "concept",
   "slug": "/concept/intro",
@@ -11,10 +11,12 @@
   "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/intro.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
     "id": "intro",
-    "title": "What Is Web App Pentesting?",
-    "sidebar_label": "Introduction"
+    "title": "Introduction to Offensive Cybersecurity",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +24,7 @@
     "permalink": "/docs/toc"
   },
   "next": {
-    "title": "Reconnaissance",
-    "permalink": "/docs/concept/what-is-reconnaissance"
+    "title": "The Cyber Killchain",
+    "permalink": "/docs/concept/cyber-killchain"
   }
 }
