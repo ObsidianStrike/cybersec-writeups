@@ -83,6 +83,7 @@ export default {
         },
         {
           "title": "Repository",
+          "className": "footer-right-align",
           "items": [
             {
               "label": "GitHub",

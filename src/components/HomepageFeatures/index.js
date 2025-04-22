@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Red Team Ready',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Each write-up is designed to help you simulate real-world attacks,
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'TTP-Focused Content',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Every guide maps to practical tactics, techniques, and procedures (TTPs),
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Built by Practitioners',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         These writeups aren't theory—they're forged in hands-on engagements

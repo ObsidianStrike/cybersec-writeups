@@ -22,3 +22,14 @@
 
   --docusaurus-highlighted-code-line-bg: rgba(255, 235, 235, 0.05);
 }
+
+/* Align 'Repository' footer column to the far right */
+.footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer__links > div.footer-right-align {
+  margin-left: auto;
+}

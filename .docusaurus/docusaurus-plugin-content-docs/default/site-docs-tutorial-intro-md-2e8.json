@@ -19,6 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
+    "permalink": "/cybersec-writeups/docs/how-to/intro"
+  },
+  "next": {
+    "title": "Introduction",
     "permalink": "/cybersec-writeups/docs/reference/intro"
   }
 }

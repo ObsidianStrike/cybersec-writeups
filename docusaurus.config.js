@@ -92,6 +92,7 @@ const config = {
           },
           {
             title: 'Repository',
+            className: 'footer-right-align',
             items: [
               {
                 label: 'GitHub',
