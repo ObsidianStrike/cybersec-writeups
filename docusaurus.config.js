@@ -10,7 +10,7 @@ const config = {
   // Your production URL
   url: 'https://obsidianstrike.github.io',
   // This must match your repo name
-  baseUrl: '/cybersec-writeups',
+  baseUrl: '/',
 
   // GitHub pages deployment config
   organizationName: 'ObsidianStrike', // your GitHub user/org
