@@ -8,6 +8,6 @@ sidebar_position: 1
 Pick a section:
 
 - [Concepts](/docs/concept/intro)  
-- [How‑To](/docs/how-to/intro)  
+- [How‑To's](/docs/how-to/intro)  
 - [Tutorials](/docs/tutorial/intro)  
 - [References](/docs/reference/intro)

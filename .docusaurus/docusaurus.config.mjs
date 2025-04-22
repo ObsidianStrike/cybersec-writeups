@@ -5,7 +5,7 @@
  */
 export default {
   "title": "ObsidianStrike Pentesting Writeups",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/Shield 800_800.png",
   "url": "https://docs.obsidianstrike.com",
   "baseUrl": "/",
   "organizationName": "ObsidianStrike",
@@ -58,36 +58,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Concepts",
-              "to": "/docs/concept/intro"
-            },
-            {
-              "label": "How-To's",
-              "to": "/docs/how-to/intro"
-            },
-            {
-              "label": "References",
-              "to": "/docs/reference/intro"
-            }
-          ]
-        },
-        {
-          "title": "Repository",
-          "className": "footer-right-align",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/ObsidianStrike/cybersec-writeups"
-            }
-          ]
-        }
-      ],
-      "copyright": "© 2025 ObsidianStrike Infosec"
+      "copyright": "Obsidian Strike Infosec © Copyright 2025. All rights reserved.",
+      "links": []
     },
     "prism": {
       "theme": {
