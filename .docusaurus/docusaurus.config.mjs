@@ -8,7 +8,7 @@ export default {
   "tagline": "ObsidianStrike Cybersecurity Writeups",
   "favicon": "img/favicon.ico",
   "url": "https://ObsidianStrike.github.io",
-  "baseUrl": "/cybersec-writeups/",
+  "baseUrl": "/",
   "organizationName": "ObsidianStrike",
   "projectName": "cybersec-writeups",
   "deploymentBranch": "gh-pages",

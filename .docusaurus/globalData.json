@@ -1,43 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/cybersec-writeups/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/cybersec-writeups/docs",
+          "path": "/docs",
           "mainDocId": "toc",
           "docs": [
             {
               "id": "concept/intro",
-              "path": "/cybersec-writeups/docs/concept/intro",
+              "path": "/docs/concept/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "concept/what-is-reconnaissance",
-              "path": "/cybersec-writeups/docs/concept/what-is-reconnaissance",
+              "path": "/docs/concept/what-is-reconnaissance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-to/intro",
-              "path": "/cybersec-writeups/docs/how-to/intro",
+              "path": "/docs/how-to/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "reference/intro",
-              "path": "/cybersec-writeups/docs/reference/intro",
+              "path": "/docs/reference/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "toc",
-              "path": "/cybersec-writeups/docs/toc",
+              "path": "/docs/toc",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial/intro",
-              "path": "/cybersec-writeups/docs/tutorial/intro",
+              "path": "/docs/tutorial/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -45,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/cybersec-writeups/docs/toc",
+                "path": "/docs/toc",
                 "label": "Table of Contents"
               }
             }

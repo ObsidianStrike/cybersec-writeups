@@ -5,7 +5,7 @@
   "source": "@site/docs/reference/intro.md",
   "sourceDirName": "reference",
   "slug": "/reference/intro",
-  "permalink": "/cybersec-writeups/docs/reference/intro",
+  "permalink": "/docs/reference/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/reference/intro.md",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/tutorial/intro"
+    "permalink": "/docs/tutorial/intro"
   }
 }

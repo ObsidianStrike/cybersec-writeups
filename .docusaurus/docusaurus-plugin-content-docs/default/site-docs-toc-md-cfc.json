@@ -5,7 +5,7 @@
   "source": "@site/docs/toc.md",
   "sourceDirName": ".",
   "slug": "/toc",
-  "permalink": "/cybersec-writeups/docs/toc",
+  "permalink": "/docs/toc",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/toc.md",
@@ -21,6 +21,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Introduction",
-    "permalink": "/cybersec-writeups/docs/concept/intro"
+    "permalink": "/docs/concept/intro"
   }
 }
