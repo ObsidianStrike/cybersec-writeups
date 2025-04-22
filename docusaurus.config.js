@@ -72,35 +72,35 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Concepts',
-                to: '/docs/concept/intro',
-              },
-              {
-                label: "How-To's",
-                to: '/docs/how-to/intro',
-              },
-              {
-                label: 'References',
-                to: '/docs/reference/intro',
-              },
-            ],
-          },
-          {
-            title: 'Repository',
-            className: 'footer-right-align',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ObsidianStrike/cybersec-writeups',
-              },
-            ],
-          },
-        ],
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Concepts',
+        //         to: '/docs/concept/intro',
+        //       },
+        //       {
+        //         label: "How-To's",
+        //         to: '/docs/how-to/intro',
+        //       },
+        //       {
+        //         label: 'References',
+        //         to: '/docs/reference/intro',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'Repository',
+        //     className: 'footer-right-align',
+        //     items: [
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/ObsidianStrike/cybersec-writeups',
+        //       },
+        //     ],
+        //   },
+        // ],
         copyright: `Obsidian Strike Infosec © Copyright 2025. All rights reserved.`,
       },
       prism: {
