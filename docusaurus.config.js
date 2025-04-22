@@ -52,10 +52,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Home',
-        logo: {
-          alt: 'ObsidianStrike Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'ObsidianStrike Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             type: 'docSidebar',
