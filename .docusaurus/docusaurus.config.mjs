@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "ObsidianStrike CyberSec Writeups",
+  "title": "ObsidianStrike Pentesting Writeups",
   "favicon": "img/favicon.ico",
   "url": "https://docs.obsidianstrike.com",
   "baseUrl": "/",
