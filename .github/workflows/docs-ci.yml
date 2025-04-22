@@ -14,9 +14,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install Vale
-        run: |
-          curl -fsSL https://github.com/errata-ai/vale/releases/latest/download/vale.tar.gz | tar -xzf - && \
-          sudo mv vale /usr/local/bin/
+        run: | 
+            curl -L -o vale.tar.gz https://github.com/errata-ai/vale/releases/download/v3.11.2/vale_3.11.2_Linux_64-bit.tar.gz
+            tar -xzf vale.tar.gz
+            sudo mv vale /usr/local/bin/
+
 
       - name: Run Vale
         run: vale .

@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/cybersec-writeups/__docusaurus/debug',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug', '4ee'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/config',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/config', 'e61'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/content',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/content', 'e84'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/globalData',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/globalData', '5dc'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/metadata',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/metadata', '429'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/registry',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/registry', 'e32'),
-    exact: true
-  },
-  {
-    path: '/cybersec-writeups/__docusaurus/debug/routes',
-    component: ComponentCreator('/cybersec-writeups/__docusaurus/debug/routes', '2b4'),
-    exact: true
-  },
-  {
     path: '/cybersec-writeups/404',
     component: ComponentCreator('/cybersec-writeups/404', '322'),
     exact: true
