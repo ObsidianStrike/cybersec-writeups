@@ -16,20 +16,36 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
+      - name: Show repo structure before install
+        run: |
+          echo "=== Project Root Files ==="
+          ls -al
+          echo "=== .vale directory ==="
+          ls -al .vale || echo ".vale not found"
+          echo "=== .vale/packages.ini ==="
+          cat .vale/packages.ini || echo "Missing packages.ini"
+
       - name: Install Vale
         run: |
           curl -L -o vale.tar.gz https://github.com/errata-ai/vale/releases/download/v3.11.2/vale_3.11.2_Linux_64-bit.tar.gz
           tar -xzf vale.tar.gz
           sudo mv vale /usr/local/bin/
+          vale --version
 
       - name: Sync Vale Styles
         run: |
           mkdir -p styles
           vale sync
 
+      - name: Debug Vale Sync Output
+        run: |
+          echo "=== Contents of styles/ ==="
+          find styles || echo "styles directory is empty"
+          echo "=== Contents of .vale.ini ==="
+          cat .vale.ini || echo "Missing .vale.ini"
+
       - name: Run Vale
         run: vale .
-
 
   docusaurus-build:
     name: Build Docusaurus Site
