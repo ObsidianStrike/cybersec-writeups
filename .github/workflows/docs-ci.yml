@@ -58,6 +58,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
+      - name: Confirm packages.ini
+        run: |
+          echo "=== .vale/packages.ini ==="
+          cat .vale/packages.ini || echo "Missing packages.ini!!"
+
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
