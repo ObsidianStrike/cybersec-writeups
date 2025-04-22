@@ -4,10 +4,9 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "CyberSec Writeups",
-  "tagline": "ObsidianStrike Cybersecurity Writeups",
+  "title": "ObsidianStrike CyberSec Writeups",
   "favicon": "img/favicon.ico",
-  "url": "https://ObsidianStrike.github.io",
+  "url": "https://docs.obsidianstrike.com",
   "baseUrl": "/",
   "organizationName": "ObsidianStrike",
   "projectName": "cybersec-writeups",
@@ -345,6 +344,7 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

@@ -8,9 +8,9 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Your production URL
-  url: 'https://docs.obsidianstrike.com',
+  url: 'https://obsidianstrike.github.io',
   // This must match your repo name
-  baseUrl: '/',
+  baseUrl: '/cybersec-writeups',
 
   // GitHub pages deployment config
   organizationName: 'ObsidianStrike', // your GitHub user/org
