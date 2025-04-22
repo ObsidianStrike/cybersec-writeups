@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Red Team Ready',
-    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Emoji: () => <span style={{ fontSize: '3rem' }}>💣</span>,
     description: (
       <>
         Each write-up is designed to help you simulate real-world attacks,
@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'TTP-Focused Content',
-    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'TTP-Focused',
+    Emoji: () => <span style={{ fontSize: '3rem' }}>📑</span>,
     description: (
       <>
         Every guide maps to practical tactics, techniques, and procedures (TTPs),
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Built by Practitioners',
-    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Emoji: () => <span style={{ fontSize: '3rem' }}>🧑‍💻</span>,
     description: (
       <>
         These writeups aren't theory—they're forged in hands-on engagements
@@ -35,11 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Emoji, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Emoji && <Emoji />}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
