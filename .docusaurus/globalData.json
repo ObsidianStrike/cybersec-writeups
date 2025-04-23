@@ -11,8 +11,18 @@
           "mainDocId": "toc",
           "docs": [
             {
+              "id": "concept/active-recon",
+              "path": "/docs/concept/active-recon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/cyber-killchain",
               "path": "/docs/concept/cyber-killchain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/exploitation",
+              "path": "/docs/concept/exploitation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,8 +31,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept/opsec",
+              "path": "/docs/concept/opsec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/passive-recon",
+              "path": "/docs/concept/passive-recon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/post-exploitation",
+              "path": "/docs/concept/post-exploitation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/post-exploitation-ttps",
+              "path": "/docs/concept/post-exploitation-ttps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/pre-engagement",
+              "path": "/docs/concept/pre-engagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/ttps-explained",
               "path": "/docs/concept/ttps-explained",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/vuln-validation",
+              "path": "/docs/concept/vuln-validation",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,30 @@
+{
+  "id": "concept/active-recon",
+  "title": "Active Recon",
+  "description": "---",
+  "source": "@site/docs/concept/active-recon.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/active-recon",
+  "permalink": "/docs/concept/active-recon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/active-recon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "active-recon",
+    "title": "Active Recon",
+    "sidebar_label": "Active Recon",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Passive Recon",
+    "permalink": "/docs/concept/passive-recon"
+  },
+  "next": {
+    "title": "Vuln Validation",
+    "permalink": "/docs/concept/vuln-validation"
+  }
+}

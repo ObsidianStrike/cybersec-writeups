@@ -1,0 +1,30 @@
+{
+  "id": "concept/vuln-validation",
+  "title": "Vulnerability Validation",
+  "description": "---",
+  "source": "@site/docs/concept/vuln-validation.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/vuln-validation",
+  "permalink": "/docs/concept/vuln-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/vuln-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "vuln-validation",
+    "title": "Vulnerability Validation",
+    "sidebar_label": "Vuln Validation",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Active Recon",
+    "permalink": "/docs/concept/active-recon"
+  },
+  "next": {
+    "title": "Exploitation",
+    "permalink": "/docs/concept/exploitation"
+  }
+}

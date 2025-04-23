@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tactics, Techniques, and Procedures (TTPs)",
-    "permalink": "/docs/concept/ttps-explained"
+    "title": "Post-Exploitation TTPs",
+    "permalink": "/docs/concept/post-exploitation-ttps"
   },
   "next": {
     "title": "Introduction",

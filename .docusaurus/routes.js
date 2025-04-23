@@ -44,19 +44,31 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '510'),
+    component: ComponentCreator('/docs', '7a8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a84'),
+        component: ComponentCreator('/docs', '407'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '98f'),
+            component: ComponentCreator('/docs', '382'),
             routes: [
+              {
+                path: '/docs/concept/active-recon',
+                component: ComponentCreator('/docs/concept/active-recon', '7eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/concept/cyber-killchain',
                 component: ComponentCreator('/docs/concept/cyber-killchain', 'e38'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/exploitation',
+                component: ComponentCreator('/docs/concept/exploitation', '2b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -67,8 +79,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/concept/opsec',
+                component: ComponentCreator('/docs/concept/opsec', '7de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/passive-recon',
+                component: ComponentCreator('/docs/concept/passive-recon', '44f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/post-exploitation',
+                component: ComponentCreator('/docs/concept/post-exploitation', '56a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/post-exploitation-ttps',
+                component: ComponentCreator('/docs/concept/post-exploitation-ttps', '6d9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/pre-engagement',
+                component: ComponentCreator('/docs/concept/pre-engagement', 'fce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/concept/ttps-explained',
                 component: ComponentCreator('/docs/concept/ttps-explained', '297'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/vuln-validation',
+                component: ComponentCreator('/docs/concept/vuln-validation', '8f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

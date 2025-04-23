@@ -49,30 +49,62 @@
     },
     "config": "config---4045-e-9-90e"
   },
-  "/docs-510": {
+  "/docs-7a8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-a84": {
+  "/docs-407": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-98f": {
+  "/docs-382": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/concept/active-recon-7eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-active-recon-2-a-9-335"
   },
   "/docs/concept/cyber-killchain-e38": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-what-is-reconnaissance-269-460"
   },
+  "/docs/concept/exploitation-2b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-exploitationea-0-1ca"
+  },
   "/docs/concept/intro-7ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-intro-2-ab-907"
   },
+  "/docs/concept/opsec-7de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-opsecd-8-a-fc5"
+  },
+  "/docs/concept/passive-recon-44f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-passive-reconbe-3-687"
+  },
+  "/docs/concept/post-exploitation-56a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-post-exploitationeb-9-2d0"
+  },
+  "/docs/concept/post-exploitation-ttps-6d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-post-exploitation-ttps-38-b-698"
+  },
+  "/docs/concept/pre-engagement-fce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-pre-engagementf-41-8ae"
+  },
   "/docs/concept/ttps-explained-297": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-ttps-explainedb-81-d8a"
+  },
+  "/docs/concept/vuln-validation-8f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-vuln-validation-4-cd-505"
   },
   "/docs/how-to/intro-1d5": {
     "__comp": "__comp---theme-doc-item-178-a40",

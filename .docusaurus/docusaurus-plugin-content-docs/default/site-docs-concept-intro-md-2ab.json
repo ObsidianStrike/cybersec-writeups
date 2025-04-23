@@ -1,7 +1,7 @@
 {
   "id": "concept/intro",
   "title": "Introduction to Offensive Cybersecurity",
-  "description": "What is Offensive Cybersecurity?",
+  "description": "---",
   "source": "@site/docs/concept/intro.md",
   "sourceDirName": "concept",
   "slug": "/concept/intro",

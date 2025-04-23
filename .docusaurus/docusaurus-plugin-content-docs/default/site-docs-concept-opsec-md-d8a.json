@@ -1,0 +1,30 @@
+{
+  "id": "concept/opsec",
+  "title": "Operational Security (OpSec) for Red Teams",
+  "description": "---",
+  "source": "@site/docs/concept/opsec.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/opsec",
+  "permalink": "/docs/concept/opsec",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/opsec.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "opsec",
+    "title": "Operational Security (OpSec) for Red Teams",
+    "sidebar_label": "Operational Security (OpSec)",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pre-Engagement",
+    "permalink": "/docs/concept/pre-engagement"
+  },
+  "next": {
+    "title": "Passive Recon",
+    "permalink": "/docs/concept/passive-recon"
+  }
+}

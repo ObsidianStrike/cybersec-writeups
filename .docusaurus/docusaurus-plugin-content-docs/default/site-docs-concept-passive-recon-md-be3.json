@@ -1,0 +1,30 @@
+{
+  "id": "concept/passive-recon",
+  "title": "Passive Recon",
+  "description": "---",
+  "source": "@site/docs/concept/passive-recon.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/passive-recon",
+  "permalink": "/docs/concept/passive-recon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/passive-recon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "passive-recon",
+    "title": "Passive Recon",
+    "sidebar_label": "Passive Recon",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operational Security (OpSec)",
+    "permalink": "/docs/concept/opsec"
+  },
+  "next": {
+    "title": "Active Recon",
+    "permalink": "/docs/concept/active-recon"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "concept/ttps-explained",
   "title": "Tactics, Techniques, and Procedures (TTPs)",
-  "description": "What Are TTPs?",
+  "description": "---",
   "source": "@site/docs/concept/ttps-explained.md",
   "sourceDirName": "concept",
   "slug": "/concept/ttps-explained",
@@ -24,7 +24,7 @@
     "permalink": "/docs/concept/cyber-killchain"
   },
   "next": {
-    "title": "Introduction",
-    "permalink": "/docs/how-to/intro"
+    "title": "Pre-Engagement",
+    "permalink": "/docs/concept/pre-engagement"
   }
 }

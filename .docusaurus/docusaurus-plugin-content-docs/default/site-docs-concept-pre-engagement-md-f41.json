@@ -1,0 +1,30 @@
+{
+  "id": "concept/pre-engagement",
+  "title": "Pre-Engagement",
+  "description": "---",
+  "source": "@site/docs/concept/pre-engagement.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/pre-engagement",
+  "permalink": "/docs/concept/pre-engagement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/pre-engagement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "pre-engagement",
+    "title": "Pre-Engagement",
+    "sidebar_label": "Pre-Engagement",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tactics, Techniques, and Procedures (TTPs)",
+    "permalink": "/docs/concept/ttps-explained"
+  },
+  "next": {
+    "title": "Operational Security (OpSec)",
+    "permalink": "/docs/concept/opsec"
+  }
+}
