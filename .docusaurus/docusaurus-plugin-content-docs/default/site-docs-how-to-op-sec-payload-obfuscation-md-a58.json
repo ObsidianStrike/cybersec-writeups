@@ -24,7 +24,7 @@
     "permalink": "/docs/how-to/OpSec/c2"
   },
   "next": {
-    "title": "Introduction",
-    "permalink": "/docs/how-to/Passive Recon/intro"
+    "title": "Cobalt Strike",
+    "permalink": "/docs/reference/cobalt-strike"
   }
 }

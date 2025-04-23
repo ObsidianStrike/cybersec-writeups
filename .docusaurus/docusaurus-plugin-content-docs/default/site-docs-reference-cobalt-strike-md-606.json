@@ -55,7 +55,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "shhhh",
-    "permalink": "/docs/how-to/Active Recon/intro"
+    "title": "Payload Obfuscation",
+    "permalink": "/docs/how-to/OpSec/payload-obfuscation"
   }
 }

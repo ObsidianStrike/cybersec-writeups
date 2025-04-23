@@ -22,7 +22,7 @@
     "permalink": "/docs/how-to/OpSec/payload-obfuscation"
   },
   "next": {
-    "title": "shhhh",
-    "permalink": "/docs/how-to/Active Recon/intro"
+    "title": "Cobalt Strike",
+    "permalink": "/docs/reference/cobalt-strike"
   }
 }

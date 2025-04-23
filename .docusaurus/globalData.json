@@ -66,11 +66,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/Active Recon/intro",
-              "path": "/docs/how-to/Active Recon/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "how-to/OpSec/c2",
               "path": "/docs/how-to/OpSec/c2",
               "sidebar": "tutorialSidebar"
@@ -78,11 +73,6 @@
             {
               "id": "how-to/OpSec/payload-obfuscation",
               "path": "/docs/how-to/OpSec/payload-obfuscation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "how-to/Passive Recon/intro",
-              "path": "/docs/how-to/Passive Recon/intro",
               "sidebar": "tutorialSidebar"
             },
             {
