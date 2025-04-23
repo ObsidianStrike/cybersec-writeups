@@ -1,0 +1,28 @@
+{
+  "id": "how-to/Active Recon/intro",
+  "title": "Active Recon",
+  "description": "This How‑To quadrant will walk you step‑by‑step through tasks like subdomain enumeration and directory brute‑forcing.",
+  "source": "@site/docs/how-to/Active Recon/intro.md",
+  "sourceDirName": "how-to/Active Recon",
+  "slug": "/how-to/Active Recon/intro",
+  "permalink": "/docs/how-to/Active Recon/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Active Recon/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Active Recon",
+    "sidebar_label": "shhhh"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/how-to/Passive Recon/intro"
+  },
+  "next": {
+    "title": "Cobalt Strike",
+    "permalink": "/docs/reference/cobalt-strike"
+  }
+}

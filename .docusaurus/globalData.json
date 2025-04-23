@@ -66,23 +66,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/intro",
-              "path": "/docs/how-to/intro",
+              "id": "how-to/Active Recon/intro",
+              "path": "/docs/how-to/Active Recon/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "reference/intro",
-              "path": "/docs/reference/intro",
+              "id": "how-to/OpSec/c2",
+              "path": "/docs/how-to/OpSec/c2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/OpSec/payload-obfuscation",
+              "path": "/docs/how-to/OpSec/payload-obfuscation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Passive Recon/intro",
+              "path": "/docs/how-to/Passive Recon/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Pre-Engagement/client-questionnaire",
+              "path": "/docs/how-to/Pre-Engagement/client-questionnaire",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Pre-Engagement/internal-planning-docs",
+              "path": "/docs/how-to/Pre-Engagement/internal-planning-docs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Pre-Engagement/roe",
+              "path": "/docs/how-to/Pre-Engagement/roe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Pre-Engagement/sow",
+              "path": "/docs/how-to/Pre-Engagement/sow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how-to/Pre-Engagement/threat-model",
+              "path": "/docs/how-to/Pre-Engagement/threat-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/cobalt-strike-command-ref",
+              "path": "/docs/reference/cobalt-strike",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "toc",
               "path": "/docs/toc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial/intro",
-              "path": "/docs/tutorial/intro",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -1,0 +1,30 @@
+{
+  "id": "how-to/OpSec/payload-obfuscation",
+  "title": "How to Obfuscate Payloads to Evade Detection",
+  "description": "---",
+  "source": "@site/docs/how-to/OpSec/payload-obfuscation.md",
+  "sourceDirName": "how-to/OpSec",
+  "slug": "/how-to/OpSec/payload-obfuscation",
+  "permalink": "/docs/how-to/OpSec/payload-obfuscation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/OpSec/payload-obfuscation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "payload-obfuscation",
+    "title": "How to Obfuscate Payloads to Evade Detection",
+    "sidebar_label": "Payload Obfuscation",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C2",
+    "permalink": "/docs/how-to/OpSec/c2"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/how-to/Passive Recon/intro"
+  }
+}

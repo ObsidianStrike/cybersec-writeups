@@ -1,0 +1,28 @@
+{
+  "id": "how-to/Passive Recon/intro",
+  "title": "Reconnaissance How‑To",
+  "description": "This How‑To quadrant will walk you step‑by‑step through tasks like subdomain enumeration and directory brute‑forcing.",
+  "source": "@site/docs/how-to/Passive Recon/intro.md",
+  "sourceDirName": "how-to/Passive Recon",
+  "slug": "/how-to/Passive Recon/intro",
+  "permalink": "/docs/how-to/Passive Recon/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Passive Recon/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Reconnaissance How‑To",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payload Obfuscation",
+    "permalink": "/docs/how-to/OpSec/payload-obfuscation"
+  },
+  "next": {
+    "title": "shhhh",
+    "permalink": "/docs/how-to/Active Recon/intro"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "how-to/Pre-Engagement/internal-planning-docs",
+  "title": "How to Set Up Internal Red Team Planning Docs",
+  "description": "---",
+  "source": "@site/docs/how-to/Pre-Engagement/internal-planning-docs.md",
+  "sourceDirName": "how-to/Pre-Engagement",
+  "slug": "/how-to/Pre-Engagement/internal-planning-docs",
+  "permalink": "/docs/how-to/Pre-Engagement/internal-planning-docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Pre-Engagement/internal-planning-docs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "internal-planning-docs",
+    "title": "How to Set Up Internal Red Team Planning Docs",
+    "sidebar_label": "Internal Planning Docs",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client Questionnaire",
+    "permalink": "/docs/how-to/Pre-Engagement/client-questionnaire"
+  },
+  "next": {
+    "title": "C2",
+    "permalink": "/docs/how-to/OpSec/c2"
+  }
+}

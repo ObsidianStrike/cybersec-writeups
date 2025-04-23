@@ -1,5 +1,5 @@
 ---
-id: Pre-Engagement/roe
+id: roe
 title: How to Define Rules of Engagement for a Red Team Operation
 sidebar_label: Rules of Engagement
 sidebar_position: 1

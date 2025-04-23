@@ -1,0 +1,61 @@
+{
+  "id": "reference/cobalt-strike-command-ref",
+  "title": "Cobalt Strike Command Reference",
+  "description": "A categorized cheat sheet of Cobalt Strike Beacon commands with syntax, notes, and OPSEC guidance.",
+  "source": "@site/docs/reference/cobalt-strike.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/cobalt-strike",
+  "permalink": "/docs/reference/cobalt-strike",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/reference/cobalt-strike.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "cobalt-strike",
+      "permalink": "/docs/tags/cobalt-strike"
+    },
+    {
+      "inline": true,
+      "label": "red-team",
+      "permalink": "/docs/tags/red-team"
+    },
+    {
+      "inline": true,
+      "label": "beacon",
+      "permalink": "/docs/tags/beacon"
+    },
+    {
+      "inline": true,
+      "label": "command-reference",
+      "permalink": "/docs/tags/command-reference"
+    },
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "cobalt-strike-command-ref",
+    "title": "Cobalt Strike Command Reference",
+    "description": "A categorized cheat sheet of Cobalt Strike Beacon commands with syntax, notes, and OPSEC guidance.",
+    "slug": "/reference/cobalt-strike",
+    "sidebar_label": "Cobalt Strike",
+    "sidebar_position": 1,
+    "tags": [
+      "cobalt-strike",
+      "red-team",
+      "beacon",
+      "command-reference",
+      "post-exploitation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "shhhh",
+    "permalink": "/docs/how-to/Active Recon/intro"
+  }
+}

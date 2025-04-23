@@ -7,7 +7,7 @@ export default function NotFound() {
     <Layout title="Page Not Found">
       <main style={{ textAlign: 'center', padding: '4rem' }}>
         <h1>😕 Oops! Page not found.</h1>
-        <p>
+        {/* <p>
           Try one of these sections:
         </p>
         <p>
@@ -15,7 +15,7 @@ export default function NotFound() {
           <Link to="/docs/how-to/intro">How‑To's</Link> |{' '}
           <Link to="/docs/tutorial/intro">Tutorials</Link> |{' '}
           <Link to="/docs/reference/intro">References</Link>
-        </p>
+        </p> */}
       </main>
     </Layout>
   );

@@ -1,0 +1,30 @@
+{
+  "id": "how-to/Pre-Engagement/threat-model",
+  "title": "How to Create a Threat Model for an Adversary Simulation",
+  "description": "---",
+  "source": "@site/docs/how-to/Pre-Engagement/threat-model.md",
+  "sourceDirName": "how-to/Pre-Engagement",
+  "slug": "/how-to/Pre-Engagement/threat-model",
+  "permalink": "/docs/how-to/Pre-Engagement/threat-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Pre-Engagement/threat-model.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "threat-model",
+    "title": "How to Create a Threat Model for an Adversary Simulation",
+    "sidebar_label": "Threat Modeling",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scope of Work",
+    "permalink": "/docs/how-to/Pre-Engagement/sow"
+  },
+  "next": {
+    "title": "Client Questionnaire",
+    "permalink": "/docs/how-to/Pre-Engagement/client-questionnaire"
+  }
+}

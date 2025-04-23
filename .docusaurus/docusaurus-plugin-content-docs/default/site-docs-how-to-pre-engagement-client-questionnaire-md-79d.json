@@ -1,0 +1,30 @@
+{
+  "id": "how-to/Pre-Engagement/client-questionnaire",
+  "title": "How to Build a Pre-Engagement Questionnaire for Clients",
+  "description": "---",
+  "source": "@site/docs/how-to/Pre-Engagement/client-questionnaire.md",
+  "sourceDirName": "how-to/Pre-Engagement",
+  "slug": "/how-to/Pre-Engagement/client-questionnaire",
+  "permalink": "/docs/how-to/Pre-Engagement/client-questionnaire",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Pre-Engagement/client-questionnaire.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "client-questionnaire",
+    "title": "How to Build a Pre-Engagement Questionnaire for Clients",
+    "sidebar_label": "Client Questionnaire",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Threat Modeling",
+    "permalink": "/docs/how-to/Pre-Engagement/threat-model"
+  },
+  "next": {
+    "title": "Internal Planning Docs",
+    "permalink": "/docs/how-to/Pre-Engagement/internal-planning-docs"
+  }
+}

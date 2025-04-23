@@ -1,0 +1,30 @@
+{
+  "id": "how-to/OpSec/c2",
+  "title": "How to Set Up OPSEC-Safe C2 Infrastructure",
+  "description": "---",
+  "source": "@site/docs/how-to/OpSec/c2.md",
+  "sourceDirName": "how-to/OpSec",
+  "slug": "/how-to/OpSec/c2",
+  "permalink": "/docs/how-to/OpSec/c2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/OpSec/c2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "c2",
+    "title": "How to Set Up OPSEC-Safe C2 Infrastructure",
+    "sidebar_label": "C2",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Internal Planning Docs",
+    "permalink": "/docs/how-to/Pre-Engagement/internal-planning-docs"
+  },
+  "next": {
+    "title": "Payload Obfuscation",
+    "permalink": "/docs/how-to/OpSec/payload-obfuscation"
+  }
+}

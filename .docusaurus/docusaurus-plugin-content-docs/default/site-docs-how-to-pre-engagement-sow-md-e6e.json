@@ -1,0 +1,30 @@
+{
+  "id": "how-to/Pre-Engagement/sow",
+  "title": "How to Scope a Red Team Engagement Safely and Effectively",
+  "description": "---",
+  "source": "@site/docs/how-to/Pre-Engagement/sow.md",
+  "sourceDirName": "how-to/Pre-Engagement",
+  "slug": "/how-to/Pre-Engagement/sow",
+  "permalink": "/docs/how-to/Pre-Engagement/sow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/how-to/Pre-Engagement/sow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "sow",
+    "title": "How to Scope a Red Team Engagement Safely and Effectively",
+    "sidebar_label": "Scope of Work",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rules of Engagement",
+    "permalink": "/docs/how-to/Pre-Engagement/roe"
+  },
+  "next": {
+    "title": "Threat Modeling",
+    "permalink": "/docs/how-to/Pre-Engagement/threat-model"
+  }
+}
