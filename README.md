@@ -1,7 +1,7 @@
-# cybersec-writeups ✍🏼
+# offsec-writeups ✍🏼
 
 
-> A docs‑as‑code repository for offensive cybersecurity content—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures.
+> A docs‑as‑code repository for offensive cybersecurity engagements—organized by the Diátaxis framework—to teach and reference penetration testing tactics, techniques, and procedures.
 
 ---
 
