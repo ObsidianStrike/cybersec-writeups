@@ -46,8 +46,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "concept/post-exploitation-ttps",
-              "path": "/docs/concept/post-exploitation-ttps",
+              "id": "concept/post-recon",
+              "path": "/docs/concept/post-exploitation-recon",
               "sidebar": "tutorialSidebar"
             },
             {

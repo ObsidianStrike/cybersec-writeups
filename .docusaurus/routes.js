@@ -3,17 +3,52 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/404',
     component: ComponentCreator('/404', '5c5'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c07'),
+    component: ComponentCreator('/docs', '22e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '926'),
+        component: ComponentCreator('/docs', 'b23'),
         routes: [
           {
             path: '/docs/tags',
@@ -36,6 +71,21 @@ export default [
             exact: true
           },
           {
+            path: '/docs/tags/diataxis-explanation',
+            component: ComponentCreator('/docs/tags/diataxis-explanation', '4e7'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/internal-recon',
+            component: ComponentCreator('/docs/tags/internal-recon', 'd93'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/lateral-movement',
+            component: ComponentCreator('/docs/tags/lateral-movement', '4fd'),
+            exact: true
+          },
+          {
             path: '/docs/tags/post-exploitation',
             component: ComponentCreator('/docs/tags/post-exploitation', '8b0'),
             exact: true
@@ -47,7 +97,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '3f6'),
+            component: ComponentCreator('/docs', 'c81'),
             routes: [
               {
                 path: '/docs/concept/active-recon',
@@ -92,8 +142,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concept/post-exploitation-ttps',
-                component: ComponentCreator('/docs/concept/post-exploitation-ttps', '6d9'),
+                path: '/docs/concept/post-exploitation-recon',
+                component: ComponentCreator('/docs/concept/post-exploitation-recon', '509'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

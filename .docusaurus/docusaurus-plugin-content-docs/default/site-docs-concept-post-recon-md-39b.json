@@ -1,0 +1,65 @@
+{
+  "id": "concept/post-recon",
+  "title": "Post-Exploitation Reconnaissance Explained",
+  "description": "Understand the rationale, goals, and methods behind recon activities after gaining access during an engagement.",
+  "source": "@site/docs/concept/post-recon.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/post-exploitation-recon",
+  "permalink": "/docs/concept/post-exploitation-recon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/post-recon.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "red-team",
+      "permalink": "/docs/tags/red-team"
+    },
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "lateral-movement",
+      "permalink": "/docs/tags/lateral-movement"
+    },
+    {
+      "inline": true,
+      "label": "internal-recon",
+      "permalink": "/docs/tags/internal-recon"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "post-recon",
+    "title": "Post-Exploitation Reconnaissance Explained",
+    "description": "Understand the rationale, goals, and methods behind recon activities after gaining access during an engagement.",
+    "slug": "/concept/post-exploitation-recon",
+    "sidebar_label": "Post-Exploitation Recon",
+    "sidebar_position": 11,
+    "tags": [
+      "red-team",
+      "post-exploitation",
+      "lateral-movement",
+      "internal-recon",
+      "diataxis:explanation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Post-Exploitation",
+    "permalink": "/docs/concept/post-exploitation"
+  },
+  "next": {
+    "title": "Rules of Engagement",
+    "permalink": "/docs/how-to/Pre-Engagement/roe"
+  }
+}
