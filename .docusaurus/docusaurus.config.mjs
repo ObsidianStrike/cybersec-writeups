@@ -58,7 +58,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Obsidian Strike Infosec © Copyright 2025. All rights reserved.",
+      "copyright": "<a href=\"https://obsidianstrike.com\" target=\"_blank\" rel=\"noopener noreferrer\">Obsidian Strike Infosec</a> © 2025. All rights reserved.",
       "links": []
     },
     "prism": {
