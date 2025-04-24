@@ -18,7 +18,7 @@ slug: /toc
 - [Vulnerability Validation](/docs/concept/vuln-validation)
 - [Exploitation](/docs/concept/exploitation)
 - [Post-Exploitation](/docs/concept/post-exploitation)
-- [Post-Exploitation Reconnaissance Explained](/docs/concept/post-recon)
+- [Post-Exploitation Reconnaissance](/docs/concept/post-recon)
 - [Persistence Explained](/docs/concept/persistence)
 - [Credential Access Explained](/docs/concept/credential-access)
 - [Privilege Escalation Explained](/docs/concept/priv-esc)

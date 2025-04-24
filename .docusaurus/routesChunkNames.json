@@ -1,300 +1,257 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/404-5c5": {
-    "__comp": "__comp---site-src-pages-404-js-6-bb-277",
+    "__comp": "6bb41b40",
     "__context": {
-      "plugin": "plugin---404-a-74-27e"
+      "plugin": "a7456010"
     },
-    "config": "config---4045-e-9-90e"
+    "config": "5e9f5e1a"
   },
   "/docs-deb": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-175": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs/tags-fce": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---docs-tags-898-65c"
+    "__comp": "3720c009",
+    "__props": "898514b1"
   },
   "/docs/tags/actions-on-objective-4b0": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-actions-on-objectivefb-2-e71"
+    "__comp": "df203c0f",
+    "__props": "fb2ecf70"
   },
   "/docs/tags/attacker-intent-5e2": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-attacker-intentaa-6-079"
+    "__comp": "df203c0f",
+    "__props": "aa69711a"
   },
   "/docs/tags/attacker-objectives-7df": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-attacker-objectivesa-40-459"
+    "__comp": "df203c0f",
+    "__props": "a40715d3"
   },
   "/docs/tags/beacon-c66": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-beaconfc-7-70b"
+    "__comp": "df203c0f",
+    "__props": "fc7f73b0"
   },
   "/docs/tags/cobalt-strike-d0e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-cobalt-strike-163-b60"
+    "__comp": "df203c0f",
+    "__props": "16372d13"
   },
   "/docs/tags/command-reference-b14": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-command-referencebfd-2eb"
+    "__comp": "df203c0f",
+    "__props": "bfdf10cf"
   },
   "/docs/tags/credential-access-47a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-credential-accessbc-0-2eb"
+    "__comp": "df203c0f",
+    "__props": "bc0ef21f"
   },
   "/docs/tags/data-collection-48c": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-data-collectionda-5-925"
+    "__comp": "df203c0f",
+    "__props": "da52925c"
   },
   "/docs/tags/data-exfiltration-e8a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-data-exfiltration-25-e-24d"
+    "__comp": "df203c0f",
+    "__props": "25eca755"
   },
   "/docs/tags/diataxis-explanation-4e7": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-diataxis-explanation-910-d54"
+    "__comp": "df203c0f",
+    "__props": "91017468"
   },
   "/docs/tags/escalation-2d7": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-escalationdbd-e0f"
+    "__comp": "df203c0f",
+    "__props": "dbdbce0f"
   },
   "/docs/tags/goals-a1f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-goalsee-8-35e"
+    "__comp": "df203c0f",
+    "__props": "ee88d847"
   },
   "/docs/tags/internal-recon-d93": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-internal-recon-5-a-2-6b8"
+    "__comp": "df203c0f",
+    "__props": "5a2f6593"
   },
   "/docs/tags/lateral-50a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-lateral-6-cc-07d"
+    "__comp": "df203c0f",
+    "__props": "6cc98949"
   },
   "/docs/tags/lateral-movement-4fd": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-lateral-movementcc-9-b4b"
+    "__comp": "df203c0f",
+    "__props": "cc96e6f5"
   },
   "/docs/tags/linux-845": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-linuxda-8-abb"
+    "__comp": "df203c0f",
+    "__props": "da802cf4"
   },
   "/docs/tags/movement-5fc": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-movementfc-1-7a7"
+    "__comp": "df203c0f",
+    "__props": "fc189df4"
   },
   "/docs/tags/password-dumping-e89": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-password-dumping-33-b-b84"
+    "__comp": "df203c0f",
+    "__props": "33b12331"
   },
   "/docs/tags/persistence-f87": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-persistence-113-fad"
+    "__comp": "df203c0f",
+    "__props": "113cef04"
   },
   "/docs/tags/pivoting-6d4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-pivotingee-8-2aa"
+    "__comp": "df203c0f",
+    "__props": "ee8aafcb"
   },
   "/docs/tags/post-exploitation-8b0": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-post-exploitation-556-f0c"
+    "__comp": "df203c0f",
+    "__props": "556089ca"
   },
   "/docs/tags/red-team-ec4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-red-teamcca-daf"
+    "__comp": "df203c0f",
+    "__props": "cca63b84"
   },
   "/docs/tags/t-1005-505": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-t-1005-cdc-e8c"
+    "__comp": "df203c0f",
+    "__props": "cdc8050a"
   },
   "/docs/tags/t-1041-9b7": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-t-10412-fe-a7e"
+    "__comp": "df203c0f",
+    "__props": "2fe8fb78"
   },
   "/docs/tags/t-1048-a14": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-t-104822-a-055"
+    "__comp": "df203c0f",
+    "__props": "22aeefd9"
   },
   "/docs/tags/t-1552-88b": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-t-1552-f-61-fcd"
+    "__comp": "df203c0f",
+    "__props": "f61a060d"
   },
   "/docs/tags/t-1567-37e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-t-1567-f-7-e-7be"
+    "__comp": "df203c0f",
+    "__props": "f7edf87c"
   },
   "/docs/tags/token-theft-c30": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-token-thefta-77-6c1"
+    "__comp": "df203c0f",
+    "__props": "a77f6c0e"
   },
   "/docs/tags/windows-439": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-windows-4-f-3-1f0"
+    "__comp": "df203c0f",
+    "__props": "4f35c7a7"
   },
   "/docs-c06": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/concept/actions-on-objective-911": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-actions-on-objective-5-a-9-96d"
+    "__comp": "17896441",
+    "content": "5a955bab"
   },
   "/docs/concept/active-recon-7eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-active-recon-2-a-9-335"
+    "__comp": "17896441",
+    "content": "2a9412a5"
   },
   "/docs/concept/credential-access-06b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-credential-access-724-4e9"
+    "__comp": "17896441",
+    "content": "72474716"
   },
   "/docs/concept/cyber-killchain-e38": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-cyber-killchain-269-4c8"
+    "__comp": "17896441",
+    "content": "2692adc4"
   },
   "/docs/concept/data-collection-4ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-data-collection-0-b-2-d1d"
+    "__comp": "17896441",
+    "content": "0b2105a7"
   },
   "/docs/concept/data-exfiltration-c74": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-data-exfila-8-b-c13"
+    "__comp": "17896441",
+    "content": "a8b815bd"
   },
   "/docs/concept/exploitation-2b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-exploitationea-0-1ca"
+    "__comp": "17896441",
+    "content": "ea01fce0"
   },
   "/docs/concept/intro-7ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-intro-2-ab-907"
+    "__comp": "17896441",
+    "content": "2abd47e8"
   },
   "/docs/concept/lateral-movement-4ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-lateral-movementf-23-0d1"
+    "__comp": "17896441",
+    "content": "f233ca95"
   },
   "/docs/concept/opsec-7de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-opsecd-8-a-fc5"
+    "__comp": "17896441",
+    "content": "d8a1c033"
   },
   "/docs/concept/passive-recon-44f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-passive-reconbe-3-687"
+    "__comp": "17896441",
+    "content": "be3e88d0"
   },
   "/docs/concept/persistence-670": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-persistence-7-d-3-52e"
+    "__comp": "17896441",
+    "content": "7d3809e3"
   },
   "/docs/concept/post-exploitation-56a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-post-exploitationeb-9-2d0"
+    "__comp": "17896441",
+    "content": "eb9d8c23"
   },
   "/docs/concept/post-exploitation-recon-509": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-post-exploitation-recon-39-b-a46"
+    "__comp": "17896441",
+    "content": "39b41f49"
   },
   "/docs/concept/pre-engagement-fce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-pre-engagementf-41-8ae"
+    "__comp": "17896441",
+    "content": "f41e896e"
   },
   "/docs/concept/privilege-escalation-f5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-priv-escd-26-f28"
+    "__comp": "17896441",
+    "content": "d26379f9"
   },
   "/docs/concept/ttps-explained-297": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-ttps-explainedb-81-d8a"
+    "__comp": "17896441",
+    "content": "b81ee0ad"
   },
   "/docs/concept/vuln-validation-8f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-vuln-validation-4-cd-505"
+    "__comp": "17896441",
+    "content": "4cd0650a"
   },
   "/docs/how-to/OpSec/c2-f2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-op-sec-c-2-e-9-e-05b"
+    "__comp": "17896441",
+    "content": "e9e57aba"
   },
   "/docs/how-to/OpSec/payload-obfuscation-000": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-op-sec-payload-obfuscationa-58-43b"
+    "__comp": "17896441",
+    "content": "a582dfe1"
   },
   "/docs/how-to/Pre-Engagement/client-questionnaire-b3c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-client-questionnaire-79-d-514"
+    "__comp": "17896441",
+    "content": "79d9f0b8"
   },
   "/docs/how-to/Pre-Engagement/internal-planning-docs-953": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-internal-planning-docsb-8-e-3b0"
+    "__comp": "17896441",
+    "content": "b8e059b3"
   },
   "/docs/how-to/Pre-Engagement/roe-de4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-roe-362-668"
+    "__comp": "17896441",
+    "content": "362cf8f5"
   },
   "/docs/how-to/Pre-Engagement/sow-6a4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-sowe-6-e-d37"
+    "__comp": "17896441",
+    "content": "e6eaae05"
   },
   "/docs/how-to/Pre-Engagement/threat-model-b55": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-threat-model-7-ef-d91"
+    "__comp": "17896441",
+    "content": "7ef5671a"
   },
   "/docs/reference/cobalt-strike-f78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-reference-cobalt-strike-606-fd5"
+    "__comp": "17896441",
+    "content": "6063c5b9"
   },
   "/docs/toc-892": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toccfc-bf2"
+    "__comp": "17896441",
+    "content": "cfc7de0c"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---404-a-74-27e"
+      "plugin": "a7456010"
     },
-    "config": "config---4045-e-9-90e"
+    "config": "5e9f5e1a"
   }
 }
