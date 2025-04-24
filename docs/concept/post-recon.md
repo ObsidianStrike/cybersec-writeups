@@ -2,7 +2,7 @@
 id: post-recon
 title: Post-Exploitation Reconnaissance Explained
 description: Understand the rationale, goals, and methods behind recon activities after gaining access during an engagement.
-slug: /concept/post-exploitation-recon
+slug: /concept/post-recon
 sidebar_label: Post-Exploitation Recon
 sidebar_position: 11
 tags:

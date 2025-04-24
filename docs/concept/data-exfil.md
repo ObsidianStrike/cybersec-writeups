@@ -2,7 +2,7 @@
 id: data-exfil
 title: Post-Exploitation Data Exfiltration
 description: Understand how attackers extract stolen data from compromised systems using stealthy and resilient techniques.
-slug: /concept/data-exfiltration
+slug: /concept/data-exfil
 sidebar_label: Data Exfil
 sidebar_position: 19
 tags:

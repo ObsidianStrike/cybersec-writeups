@@ -21,7 +21,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Data Exfil",
-    "permalink": "/docs/concept/data-exfiltration"
+    "permalink": "/docs/concept/data-exfil"
   },
   "next": {
     "title": "Scope of Work",

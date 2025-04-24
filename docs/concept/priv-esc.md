@@ -2,7 +2,7 @@
 id: priv-esc
 title: Privilege Escalation Explained
 description: Understand what privilege escalation is, why it matters, and how attackers leverage it during operations.
-slug: /concept/privilege-escalation
+slug: /concept/priv-esc
 sidebar_label: Priv Esc
 sidebar_position: 14
 tags:

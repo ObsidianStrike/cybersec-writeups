@@ -6,13 +6,13 @@
     },
     "config": "5e9f5e1a"
   },
-  "/docs-deb": {
+  "/docs-c1b": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-175": {
+  "/docs-346": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
@@ -136,7 +136,7 @@
     "__comp": "df203c0f",
     "__props": "4f35c7a7"
   },
-  "/docs-c06": {
+  "/docs-67c": {
     "__comp": "a94703ab"
   },
   "/docs/concept/actions-on-objective-911": {
@@ -159,7 +159,7 @@
     "__comp": "17896441",
     "content": "0b2105a7"
   },
-  "/docs/concept/data-exfiltration-c74": {
+  "/docs/concept/data-exfil-d36": {
     "__comp": "17896441",
     "content": "a8b815bd"
   },
@@ -191,7 +191,7 @@
     "__comp": "17896441",
     "content": "eb9d8c23"
   },
-  "/docs/concept/post-exploitation-recon-509": {
+  "/docs/concept/post-recon-51d": {
     "__comp": "17896441",
     "content": "39b41f49"
   },
@@ -199,7 +199,7 @@
     "__comp": "17896441",
     "content": "f41e896e"
   },
-  "/docs/concept/privilege-escalation-f5e": {
+  "/docs/concept/priv-esc-b87": {
     "__comp": "17896441",
     "content": "d26379f9"
   },

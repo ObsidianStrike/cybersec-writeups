@@ -62,7 +62,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Priv Esc",
-    "permalink": "/docs/concept/privilege-escalation"
+    "permalink": "/docs/concept/priv-esc"
   },
   "next": {
     "title": "Actions on Objectives",

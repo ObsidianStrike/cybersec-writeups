@@ -37,7 +37,7 @@
             },
             {
               "id": "concept/data-exfil",
-              "path": "/docs/concept/data-exfiltration",
+              "path": "/docs/concept/data-exfil",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -77,7 +77,7 @@
             },
             {
               "id": "concept/post-recon",
-              "path": "/docs/concept/post-exploitation-recon",
+              "path": "/docs/concept/post-recon",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -87,7 +87,7 @@
             },
             {
               "id": "concept/priv-esc",
-              "path": "/docs/concept/privilege-escalation",
+              "path": "/docs/concept/priv-esc",
               "sidebar": "tutorialSidebar"
             },
             {

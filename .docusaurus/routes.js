@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'deb'),
+    component: ComponentCreator('/docs', 'c1b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '175'),
+        component: ComponentCreator('/docs', '346'),
         routes: [
           {
             path: '/docs/tags',
@@ -167,7 +167,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c06'),
+            component: ComponentCreator('/docs', '67c'),
             routes: [
               {
                 path: '/docs/concept/actions-on-objective',
@@ -200,8 +200,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concept/data-exfiltration',
-                component: ComponentCreator('/docs/concept/data-exfiltration', 'c74'),
+                path: '/docs/concept/data-exfil',
+                component: ComponentCreator('/docs/concept/data-exfil', 'd36'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -248,8 +248,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concept/post-exploitation-recon',
-                component: ComponentCreator('/docs/concept/post-exploitation-recon', '509'),
+                path: '/docs/concept/post-recon',
+                component: ComponentCreator('/docs/concept/post-recon', '51d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -260,8 +260,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concept/privilege-escalation',
-                component: ComponentCreator('/docs/concept/privilege-escalation', 'f5e'),
+                path: '/docs/concept/priv-esc',
+                component: ComponentCreator('/docs/concept/priv-esc', 'b87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

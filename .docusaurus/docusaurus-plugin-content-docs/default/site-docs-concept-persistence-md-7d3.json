@@ -62,7 +62,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Post-Exploitation Recon",
-    "permalink": "/docs/concept/post-exploitation-recon"
+    "permalink": "/docs/concept/post-recon"
   },
   "next": {
     "title": "Creds",
