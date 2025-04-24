@@ -1,176 +1,133 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/404-5c5": {
-    "__comp": "__comp---site-src-pages-404-js-6-bb-277",
+    "__comp": "6bb41b40",
     "__context": {
-      "plugin": "plugin---404-a-74-27e"
+      "plugin": "a7456010"
     },
-    "config": "config---4045-e-9-90e"
+    "config": "5e9f5e1a"
   },
   "/docs-c07": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-926": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs/tags-fce": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---docs-tags-898-65c"
+    "__comp": "3720c009",
+    "__props": "898514b1"
   },
   "/docs/tags/beacon-c66": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-beaconfc-7-70b"
+    "__comp": "df203c0f",
+    "__props": "fc7f73b0"
   },
   "/docs/tags/cobalt-strike-d0e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-cobalt-strike-163-b60"
+    "__comp": "df203c0f",
+    "__props": "16372d13"
   },
   "/docs/tags/command-reference-b14": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-command-referencebfd-2eb"
+    "__comp": "df203c0f",
+    "__props": "bfdf10cf"
   },
   "/docs/tags/post-exploitation-8b0": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-post-exploitation-556-f0c"
+    "__comp": "df203c0f",
+    "__props": "556089ca"
   },
   "/docs/tags/red-team-ec4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-red-teamcca-daf"
+    "__comp": "df203c0f",
+    "__props": "cca63b84"
   },
   "/docs-3f6": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/concept/active-recon-7eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-active-recon-2-a-9-335"
+    "__comp": "17896441",
+    "content": "2a9412a5"
   },
   "/docs/concept/cyber-killchain-e38": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-cyber-killchain-269-4c8"
+    "__comp": "17896441",
+    "content": "2692adc4"
   },
   "/docs/concept/exploitation-2b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-exploitationea-0-1ca"
+    "__comp": "17896441",
+    "content": "ea01fce0"
   },
   "/docs/concept/intro-7ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-intro-2-ab-907"
+    "__comp": "17896441",
+    "content": "2abd47e8"
   },
   "/docs/concept/opsec-7de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-opsecd-8-a-fc5"
+    "__comp": "17896441",
+    "content": "d8a1c033"
   },
   "/docs/concept/passive-recon-44f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-passive-reconbe-3-687"
+    "__comp": "17896441",
+    "content": "be3e88d0"
   },
   "/docs/concept/post-exploitation-56a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-post-exploitationeb-9-2d0"
+    "__comp": "17896441",
+    "content": "eb9d8c23"
   },
   "/docs/concept/post-exploitation-ttps-6d9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-post-exploitation-ttps-38-b-698"
+    "__comp": "17896441",
+    "content": "38b89136"
   },
   "/docs/concept/pre-engagement-fce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-pre-engagementf-41-8ae"
+    "__comp": "17896441",
+    "content": "f41e896e"
   },
   "/docs/concept/ttps-explained-297": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-ttps-explainedb-81-d8a"
+    "__comp": "17896441",
+    "content": "b81ee0ad"
   },
   "/docs/concept/vuln-validation-8f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-vuln-validation-4-cd-505"
+    "__comp": "17896441",
+    "content": "4cd0650a"
   },
   "/docs/how-to/OpSec/c2-f2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-op-sec-c-2-e-9-e-05b"
+    "__comp": "17896441",
+    "content": "e9e57aba"
   },
   "/docs/how-to/OpSec/payload-obfuscation-000": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-op-sec-payload-obfuscationa-58-43b"
+    "__comp": "17896441",
+    "content": "a582dfe1"
   },
   "/docs/how-to/Pre-Engagement/client-questionnaire-b3c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-client-questionnaire-79-d-514"
+    "__comp": "17896441",
+    "content": "79d9f0b8"
   },
   "/docs/how-to/Pre-Engagement/internal-planning-docs-953": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-internal-planning-docsb-8-e-3b0"
+    "__comp": "17896441",
+    "content": "b8e059b3"
   },
   "/docs/how-to/Pre-Engagement/roe-de4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-roe-362-668"
+    "__comp": "17896441",
+    "content": "362cf8f5"
   },
   "/docs/how-to/Pre-Engagement/sow-6a4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-sowe-6-e-d37"
+    "__comp": "17896441",
+    "content": "e6eaae05"
   },
   "/docs/how-to/Pre-Engagement/threat-model-b55": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-pre-engagement-threat-model-7-ef-d91"
+    "__comp": "17896441",
+    "content": "7ef5671a"
   },
   "/docs/reference/cobalt-strike-f78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-reference-cobalt-strike-606-fd5"
+    "__comp": "17896441",
+    "content": "6063c5b9"
   },
   "/docs/toc-892": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toccfc-bf2"
+    "__comp": "17896441",
+    "content": "cfc7de0c"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---404-a-74-27e"
+      "plugin": "a7456010"
     },
-    "config": "config---4045-e-9-90e"
+    "config": "5e9f5e1a"
   }
 }
