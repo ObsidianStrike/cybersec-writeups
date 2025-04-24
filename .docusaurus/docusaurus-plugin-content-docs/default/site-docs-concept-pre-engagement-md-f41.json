@@ -20,11 +20,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tactics, Techniques, and Procedures (TTPs)",
+    "title": "TTPs",
     "permalink": "/docs/concept/ttps-explained"
   },
   "next": {
-    "title": "Operational Security (OpSec)",
+    "title": "OpSec",
     "permalink": "/docs/concept/opsec"
   }
 }

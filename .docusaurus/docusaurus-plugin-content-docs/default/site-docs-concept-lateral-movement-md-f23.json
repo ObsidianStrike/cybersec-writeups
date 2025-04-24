@@ -1,0 +1,71 @@
+{
+  "id": "concept/lateral-movement",
+  "title": "Lateral Movement Explained",
+  "description": "Understand what lateral movement is, how it's accomplished, and why it's critical in offensive operations.",
+  "source": "@site/docs/concept/lateral-movement.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/lateral-movement",
+  "permalink": "/docs/concept/lateral-movement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/lateral-movement.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "red-team",
+      "permalink": "/docs/tags/red-team"
+    },
+    {
+      "inline": true,
+      "label": "movement",
+      "permalink": "/docs/tags/movement"
+    },
+    {
+      "inline": true,
+      "label": "pivoting",
+      "permalink": "/docs/tags/pivoting"
+    },
+    {
+      "inline": true,
+      "label": "lateral",
+      "permalink": "/docs/tags/lateral"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "lateral-movement",
+    "title": "Lateral Movement Explained",
+    "description": "Understand what lateral movement is, how it's accomplished, and why it's critical in offensive operations.",
+    "slug": "/concept/lateral-movement",
+    "sidebar_label": "Lateral Movement",
+    "sidebar_position": 15,
+    "tags": [
+      "post-exploitation",
+      "red-team",
+      "movement",
+      "pivoting",
+      "lateral",
+      "diataxis:explanation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Priv Esc",
+    "permalink": "/docs/concept/privilege-escalation"
+  },
+  "next": {
+    "title": "Actions on Objectives",
+    "permalink": "/docs/concept/actions-on-objective"
+  }
+}

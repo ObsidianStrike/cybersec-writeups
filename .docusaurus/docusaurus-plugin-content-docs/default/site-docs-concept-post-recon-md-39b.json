@@ -59,7 +59,7 @@
     "permalink": "/docs/concept/post-exploitation"
   },
   "next": {
-    "title": "Rules of Engagement",
-    "permalink": "/docs/how-to/Pre-Engagement/roe"
+    "title": "Persistence",
+    "permalink": "/docs/concept/persistence"
   }
 }

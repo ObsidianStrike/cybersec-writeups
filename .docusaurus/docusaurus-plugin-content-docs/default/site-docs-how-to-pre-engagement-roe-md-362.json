@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Post-Exploitation Recon",
-    "permalink": "/docs/concept/post-exploitation-recon"
+    "title": "Data Exfil",
+    "permalink": "/docs/concept/data-exfiltration"
   },
   "next": {
     "title": "Scope of Work",

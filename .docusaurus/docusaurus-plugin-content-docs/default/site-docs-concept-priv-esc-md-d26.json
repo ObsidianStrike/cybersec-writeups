@@ -1,0 +1,71 @@
+{
+  "id": "concept/priv-esc",
+  "title": "Privilege Escalation Explained",
+  "description": "Understand what privilege escalation is, why it matters, and how attackers leverage it during operations.",
+  "source": "@site/docs/concept/priv-esc.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/privilege-escalation",
+  "permalink": "/docs/concept/privilege-escalation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/priv-esc.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "red-team",
+      "permalink": "/docs/tags/red-team"
+    },
+    {
+      "inline": true,
+      "label": "escalation",
+      "permalink": "/docs/tags/escalation"
+    },
+    {
+      "inline": true,
+      "label": "windows",
+      "permalink": "/docs/tags/windows"
+    },
+    {
+      "inline": true,
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "priv-esc",
+    "title": "Privilege Escalation Explained",
+    "description": "Understand what privilege escalation is, why it matters, and how attackers leverage it during operations.",
+    "slug": "/concept/privilege-escalation",
+    "sidebar_label": "Priv Esc",
+    "sidebar_position": 14,
+    "tags": [
+      "post-exploitation",
+      "red-team",
+      "escalation",
+      "windows",
+      "linux",
+      "diataxis:explanation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creds",
+    "permalink": "/docs/concept/credential-access"
+  },
+  "next": {
+    "title": "Lateral Movement",
+    "permalink": "/docs/concept/lateral-movement"
+  }
+}

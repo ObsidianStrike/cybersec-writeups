@@ -1,0 +1,77 @@
+{
+  "id": "concept/data-exfil",
+  "title": "Post-Exploitation Data Exfiltration",
+  "description": "Understand how attackers extract stolen data from compromised systems using stealthy and resilient techniques.",
+  "source": "@site/docs/concept/data-exfil.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/data-exfiltration",
+  "permalink": "/docs/concept/data-exfiltration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/data-exfil.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "data-exfiltration",
+      "permalink": "/docs/tags/data-exfiltration"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    },
+    {
+      "inline": true,
+      "label": "attacker-objectives",
+      "permalink": "/docs/tags/attacker-objectives"
+    },
+    {
+      "inline": true,
+      "label": "T1041",
+      "permalink": "/docs/tags/t-1041"
+    },
+    {
+      "inline": true,
+      "label": "T1048",
+      "permalink": "/docs/tags/t-1048"
+    },
+    {
+      "inline": true,
+      "label": "T1567",
+      "permalink": "/docs/tags/t-1567"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "data-exfil",
+    "title": "Post-Exploitation Data Exfiltration",
+    "description": "Understand how attackers extract stolen data from compromised systems using stealthy and resilient techniques.",
+    "slug": "/concept/data-exfiltration",
+    "sidebar_label": "Data Exfil",
+    "sidebar_position": 19,
+    "tags": [
+      "post-exploitation",
+      "data-exfiltration",
+      "diataxis:explanation",
+      "attacker-objectives",
+      "T1041",
+      "T1048",
+      "T1567"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Collection",
+    "permalink": "/docs/concept/data-collection"
+  },
+  "next": {
+    "title": "Rules of Engagement",
+    "permalink": "/docs/how-to/Pre-Engagement/roe"
+  }
+}

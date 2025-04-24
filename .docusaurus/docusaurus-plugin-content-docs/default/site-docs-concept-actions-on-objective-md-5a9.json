@@ -1,0 +1,65 @@
+{
+  "id": "concept/actions-on-objective",
+  "title": "Actions on Objectives Explained",
+  "description": "Understand the endgame of cyber operations—the diverse goals adversaries pursue after gaining access.",
+  "source": "@site/docs/concept/actions-on-objective.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/actions-on-objective",
+  "permalink": "/docs/concept/actions-on-objective",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/actions-on-objective.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "actions-on-objective",
+      "permalink": "/docs/tags/actions-on-objective"
+    },
+    {
+      "inline": true,
+      "label": "goals",
+      "permalink": "/docs/tags/goals"
+    },
+    {
+      "inline": true,
+      "label": "attacker-intent",
+      "permalink": "/docs/tags/attacker-intent"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "id": "actions-on-objective",
+    "title": "Actions on Objectives Explained",
+    "description": "Understand the endgame of cyber operations—the diverse goals adversaries pursue after gaining access.",
+    "slug": "/concept/actions-on-objective",
+    "sidebar_label": "Actions on Objectives",
+    "sidebar_position": 16,
+    "tags": [
+      "post-exploitation",
+      "actions-on-objective",
+      "goals",
+      "attacker-intent",
+      "diataxis:explanation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lateral Movement",
+    "permalink": "/docs/concept/lateral-movement"
+  },
+  "next": {
+    "title": "Data Collection",
+    "permalink": "/docs/concept/data-collection"
+  }
+}

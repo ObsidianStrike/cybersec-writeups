@@ -18,9 +18,16 @@ slug: /toc
 - [Vulnerability Validation](/docs/concept/vuln-validation)
 - [Exploitation](/docs/concept/exploitation)
 - [Post-Exploitation](/docs/concept/post-exploitation)
-- [Post-Exploitation TTPs](/docs/concept/post-exploitation-ttps)
+- [Post-Exploitation Reconnaissance Explained](/docs/concept/post-recon)
+- [Persistence Explained](/docs/concept/persistence)
+- [Credential Access Explained](/docs/concept/credential-access)
+- [Privilege Escalation Explained](/docs/concept/priv-esc)
+- [Lateral Movement Explained](/docs/concept/lateral-movement)
+- [Actions on Objectives Explained](/docs/concept/actions-on-objective)
+- [Post-Exploitation Data Collection](/docs/concept/data-collection)
+- [Post-Exploitation Data Exfiltration](/docs/concept/data-exfil)
 
-## How-To Guides
+## How-To's
 
 ### Pre-Engagement
 
@@ -35,18 +42,7 @@ slug: /toc
 - [How to Set Up OPSEC-Safe C2 Infrastructure](/docs/how-to/OpSec/c2)
 - [How to Obfuscate Payloads to Evade Detection](/docs/how-to/OpSec/payload-obfuscation)
 
-### Passive Recon
-
-- [Coming Soon]
-
-### Active Recon
-
-- [Coming Soon]
-
-## Tutorials
-
-- [Coming Soon]
-
 ## References
 
-- [Cobalt Strike Commands](/docs/reference/cobalt-strike.md)
+- [Cobalt Strike Command Reference](/docs/reference/cobalt-strike)
+

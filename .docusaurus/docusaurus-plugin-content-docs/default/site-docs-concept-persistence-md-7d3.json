@@ -1,0 +1,71 @@
+{
+  "id": "concept/persistence",
+  "title": "Persistence Explained",
+  "description": "Understand what persistence is, why it's used, and how adversaries achieve it in post-exploitation.",
+  "source": "@site/docs/concept/persistence.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/persistence",
+  "permalink": "/docs/concept/persistence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/persistence.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "red-team",
+      "permalink": "/docs/tags/red-team"
+    },
+    {
+      "inline": true,
+      "label": "persistence",
+      "permalink": "/docs/tags/persistence"
+    },
+    {
+      "inline": true,
+      "label": "windows",
+      "permalink": "/docs/tags/windows"
+    },
+    {
+      "inline": true,
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "persistence",
+    "title": "Persistence Explained",
+    "description": "Understand what persistence is, why it's used, and how adversaries achieve it in post-exploitation.",
+    "slug": "/concept/persistence",
+    "sidebar_label": "Persistence",
+    "sidebar_position": 12,
+    "tags": [
+      "post-exploitation",
+      "red-team",
+      "persistence",
+      "windows",
+      "linux",
+      "diataxis:explanation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Post-Exploitation Recon",
+    "permalink": "/docs/concept/post-exploitation-recon"
+  },
+  "next": {
+    "title": "Creds",
+    "permalink": "/docs/concept/credential-access"
+  }
+}

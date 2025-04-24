@@ -44,15 +44,30 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '22e'),
+    component: ComponentCreator('/docs', 'deb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b23'),
+        component: ComponentCreator('/docs', '175'),
         routes: [
           {
             path: '/docs/tags',
             component: ComponentCreator('/docs/tags', 'fce'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/actions-on-objective',
+            component: ComponentCreator('/docs/tags/actions-on-objective', '4b0'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/attacker-intent',
+            component: ComponentCreator('/docs/tags/attacker-intent', '5e2'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/attacker-objectives',
+            component: ComponentCreator('/docs/tags/attacker-objectives', '7df'),
             exact: true
           },
           {
@@ -71,8 +86,33 @@ export default [
             exact: true
           },
           {
+            path: '/docs/tags/credential-access',
+            component: ComponentCreator('/docs/tags/credential-access', '47a'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/data-collection',
+            component: ComponentCreator('/docs/tags/data-collection', '48c'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/data-exfiltration',
+            component: ComponentCreator('/docs/tags/data-exfiltration', 'e8a'),
+            exact: true
+          },
+          {
             path: '/docs/tags/diataxis-explanation',
             component: ComponentCreator('/docs/tags/diataxis-explanation', '4e7'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/escalation',
+            component: ComponentCreator('/docs/tags/escalation', '2d7'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/goals',
+            component: ComponentCreator('/docs/tags/goals', 'a1f'),
             exact: true
           },
           {
@@ -81,8 +121,38 @@ export default [
             exact: true
           },
           {
+            path: '/docs/tags/lateral',
+            component: ComponentCreator('/docs/tags/lateral', '50a'),
+            exact: true
+          },
+          {
             path: '/docs/tags/lateral-movement',
             component: ComponentCreator('/docs/tags/lateral-movement', '4fd'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/linux',
+            component: ComponentCreator('/docs/tags/linux', '845'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/movement',
+            component: ComponentCreator('/docs/tags/movement', '5fc'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/password-dumping',
+            component: ComponentCreator('/docs/tags/password-dumping', 'e89'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/persistence',
+            component: ComponentCreator('/docs/tags/persistence', 'f87'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/pivoting',
+            component: ComponentCreator('/docs/tags/pivoting', '6d4'),
             exact: true
           },
           {
@@ -96,9 +166,50 @@ export default [
             exact: true
           },
           {
+            path: '/docs/tags/t-1005',
+            component: ComponentCreator('/docs/tags/t-1005', '505'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/t-1041',
+            component: ComponentCreator('/docs/tags/t-1041', '9b7'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/t-1048',
+            component: ComponentCreator('/docs/tags/t-1048', 'a14'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/t-1552',
+            component: ComponentCreator('/docs/tags/t-1552', '88b'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/t-1567',
+            component: ComponentCreator('/docs/tags/t-1567', '37e'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/token-theft',
+            component: ComponentCreator('/docs/tags/token-theft', 'c30'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/windows',
+            component: ComponentCreator('/docs/tags/windows', '439'),
+            exact: true
+          },
+          {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c81'),
+            component: ComponentCreator('/docs', 'c06'),
             routes: [
+              {
+                path: '/docs/concept/actions-on-objective',
+                component: ComponentCreator('/docs/concept/actions-on-objective', '911'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/concept/active-recon',
                 component: ComponentCreator('/docs/concept/active-recon', '7eb'),
@@ -106,8 +217,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/concept/credential-access',
+                component: ComponentCreator('/docs/concept/credential-access', '06b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/concept/cyber-killchain',
                 component: ComponentCreator('/docs/concept/cyber-killchain', 'e38'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/data-collection',
+                component: ComponentCreator('/docs/concept/data-collection', '4ab'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/data-exfiltration',
+                component: ComponentCreator('/docs/concept/data-exfiltration', 'c74'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -124,6 +253,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/concept/lateral-movement',
+                component: ComponentCreator('/docs/concept/lateral-movement', '4ed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/concept/opsec',
                 component: ComponentCreator('/docs/concept/opsec', '7de'),
                 exact: true,
@@ -132,6 +267,12 @@ export default [
               {
                 path: '/docs/concept/passive-recon',
                 component: ComponentCreator('/docs/concept/passive-recon', '44f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/persistence',
+                component: ComponentCreator('/docs/concept/persistence', '670'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -150,6 +291,12 @@ export default [
               {
                 path: '/docs/concept/pre-engagement',
                 component: ComponentCreator('/docs/concept/pre-engagement', 'fce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/concept/privilege-escalation',
+                component: ComponentCreator('/docs/concept/privilege-escalation', 'f5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

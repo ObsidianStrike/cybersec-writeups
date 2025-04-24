@@ -11,13 +11,33 @@
           "mainDocId": "toc",
           "docs": [
             {
+              "id": "concept/actions-on-objective",
+              "path": "/docs/concept/actions-on-objective",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/active-recon",
               "path": "/docs/concept/active-recon",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept/credential-access",
+              "path": "/docs/concept/credential-access",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/cyber-killchain",
               "path": "/docs/concept/cyber-killchain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/data-collection",
+              "path": "/docs/concept/data-collection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/data-exfil",
+              "path": "/docs/concept/data-exfiltration",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "concept/lateral-movement",
+              "path": "/docs/concept/lateral-movement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "concept/opsec",
               "path": "/docs/concept/opsec",
               "sidebar": "tutorialSidebar"
@@ -38,6 +63,11 @@
             {
               "id": "concept/passive-recon",
               "path": "/docs/concept/passive-recon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/persistence",
+              "path": "/docs/concept/persistence",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +83,11 @@
             {
               "id": "concept/pre-engagement",
               "path": "/docs/concept/pre-engagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concept/priv-esc",
+              "path": "/docs/concept/privilege-escalation",
               "sidebar": "tutorialSidebar"
             },
             {

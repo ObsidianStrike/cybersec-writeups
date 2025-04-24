@@ -1,0 +1,71 @@
+{
+  "id": "concept/data-collection",
+  "title": "Post-Exploitation Data Collection",
+  "description": "Understand how adversaries locate, stage, and exfiltrate sensitive data after gaining access to systems.",
+  "source": "@site/docs/concept/data-collection.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/data-collection",
+  "permalink": "/docs/concept/data-collection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/docs/concept/data-collection.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "post-exploitation",
+      "permalink": "/docs/tags/post-exploitation"
+    },
+    {
+      "inline": true,
+      "label": "data-collection",
+      "permalink": "/docs/tags/data-collection"
+    },
+    {
+      "inline": true,
+      "label": "diataxis:explanation",
+      "permalink": "/docs/tags/diataxis-explanation"
+    },
+    {
+      "inline": true,
+      "label": "attacker-objectives",
+      "permalink": "/docs/tags/attacker-objectives"
+    },
+    {
+      "inline": true,
+      "label": "T1552",
+      "permalink": "/docs/tags/t-1552"
+    },
+    {
+      "inline": true,
+      "label": "T1005",
+      "permalink": "/docs/tags/t-1005"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "id": "data-collection",
+    "title": "Post-Exploitation Data Collection",
+    "description": "Understand how adversaries locate, stage, and exfiltrate sensitive data after gaining access to systems.",
+    "slug": "/concept/data-collection",
+    "sidebar_label": "Data Collection",
+    "sidebar_position": 18,
+    "tags": [
+      "post-exploitation",
+      "data-collection",
+      "diataxis:explanation",
+      "attacker-objectives",
+      "T1552",
+      "T1005"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Actions on Objectives",
+    "permalink": "/docs/concept/actions-on-objective"
+  },
+  "next": {
+    "title": "Data Exfil",
+    "permalink": "/docs/concept/data-exfiltration"
+  }
+}

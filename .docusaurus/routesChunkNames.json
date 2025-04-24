@@ -49,19 +49,31 @@
     },
     "config": "config---4045-e-9-90e"
   },
-  "/docs-22e": {
+  "/docs-deb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-b23": {
+  "/docs-175": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
   "/docs/tags-fce": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/actions-on-objective-4b0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-actions-on-objectivefb-2-e71"
+  },
+  "/docs/tags/attacker-intent-5e2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-attacker-intentaa-6-079"
+  },
+  "/docs/tags/attacker-objectives-7df": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-attacker-objectivesa-40-459"
   },
   "/docs/tags/beacon-c66": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
@@ -75,17 +87,61 @@
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-command-referencebfd-2eb"
   },
+  "/docs/tags/credential-access-47a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-credential-accessbc-0-2eb"
+  },
+  "/docs/tags/data-collection-48c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-collectionda-5-925"
+  },
+  "/docs/tags/data-exfiltration-e8a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-exfiltration-25-e-24d"
+  },
   "/docs/tags/diataxis-explanation-4e7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-diataxis-explanation-910-d54"
+  },
+  "/docs/tags/escalation-2d7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-escalationdbd-e0f"
+  },
+  "/docs/tags/goals-a1f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-goalsee-8-35e"
   },
   "/docs/tags/internal-recon-d93": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-internal-recon-5-a-2-6b8"
   },
+  "/docs/tags/lateral-50a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-lateral-6-cc-07d"
+  },
   "/docs/tags/lateral-movement-4fd": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-lateral-movementcc-9-b4b"
+  },
+  "/docs/tags/linux-845": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-linuxda-8-abb"
+  },
+  "/docs/tags/movement-5fc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-movementfc-1-7a7"
+  },
+  "/docs/tags/password-dumping-e89": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-password-dumping-33-b-b84"
+  },
+  "/docs/tags/persistence-f87": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-persistence-113-fad"
+  },
+  "/docs/tags/pivoting-6d4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-pivotingee-8-2aa"
   },
   "/docs/tags/post-exploitation-8b0": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
@@ -95,16 +151,60 @@
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-red-teamcca-daf"
   },
-  "/docs-c81": {
+  "/docs/tags/t-1005-505": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-t-1005-cdc-e8c"
+  },
+  "/docs/tags/t-1041-9b7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-t-10412-fe-a7e"
+  },
+  "/docs/tags/t-1048-a14": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-t-104822-a-055"
+  },
+  "/docs/tags/t-1552-88b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-t-1552-f-61-fcd"
+  },
+  "/docs/tags/t-1567-37e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-t-1567-f-7-e-7be"
+  },
+  "/docs/tags/token-theft-c30": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-token-thefta-77-6c1"
+  },
+  "/docs/tags/windows-439": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-windows-4-f-3-1f0"
+  },
+  "/docs-c06": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/concept/actions-on-objective-911": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-actions-on-objective-5-a-9-96d"
   },
   "/docs/concept/active-recon-7eb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-active-recon-2-a-9-335"
   },
+  "/docs/concept/credential-access-06b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-credential-access-724-4e9"
+  },
   "/docs/concept/cyber-killchain-e38": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-cyber-killchain-269-4c8"
+  },
+  "/docs/concept/data-collection-4ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-data-collection-0-b-2-d1d"
+  },
+  "/docs/concept/data-exfiltration-c74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-data-exfila-8-b-c13"
   },
   "/docs/concept/exploitation-2b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -114,6 +214,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-intro-2-ab-907"
   },
+  "/docs/concept/lateral-movement-4ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-lateral-movementf-23-0d1"
+  },
   "/docs/concept/opsec-7de": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-opsecd-8-a-fc5"
@@ -121,6 +225,10 @@
   "/docs/concept/passive-recon-44f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-passive-reconbe-3-687"
+  },
+  "/docs/concept/persistence-670": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-persistence-7-d-3-52e"
   },
   "/docs/concept/post-exploitation-56a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -133,6 +241,10 @@
   "/docs/concept/pre-engagement-fce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-concept-pre-engagementf-41-8ae"
+  },
+  "/docs/concept/privilege-escalation-f5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concept-priv-escd-26-f28"
   },
   "/docs/concept/ttps-explained-297": {
     "__comp": "__comp---theme-doc-item-178-a40",

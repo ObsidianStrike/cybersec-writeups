@@ -1,7 +1,7 @@
 ---
 id: opsec
 title: Operational Security (OpSec) for Red Teams
-sidebar_label: Operational Security (OpSec)
+sidebar_label: OpSec
 sidebar_position: 5
 ---
 

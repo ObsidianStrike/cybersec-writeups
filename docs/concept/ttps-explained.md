@@ -1,7 +1,7 @@
 ---
 id: ttps-explained
 title: Tactics, Techniques, and Procedures (TTPs)
-sidebar_label: Tactics, Techniques, and Procedures (TTPs)
+sidebar_label: TTPs
 sidebar_position: 3
 ---
 
