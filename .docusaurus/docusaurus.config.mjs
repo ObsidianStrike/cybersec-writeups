@@ -27,12 +27,12 @@ export default {
       {
         "docs": {
           "path": "docs",
-          "sidebarPath": "/home/user/cybersec-writeups/sidebars.js",
+          "sidebarPath": "/home/user/projects/offsec-writeups/sidebars.js",
           "editUrl": "https://github.com/ObsidianStrike/cybersec-writeups/tree/main/"
         },
         "blog": false,
         "theme": {
-          "customCss": "/home/user/cybersec-writeups/src/css/custom.css"
+          "customCss": "/home/user/projects/offsec-writeups/src/css/custom.css"
         }
       }
     ]

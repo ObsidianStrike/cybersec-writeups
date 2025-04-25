@@ -45,6 +45,3 @@ slug: /toc
 ## References
 
 - [Cobalt Strike Command Reference](/docs/reference/cobalt-strike)
-
-
-test
